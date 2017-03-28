@@ -1,655 +1,895 @@
-Năm 1959 , Cơ_quan nghiên_cứu về chiến_tranh của Hoa_Kì có trụ_sở tại Fort_Dietrict , bang Maryland , đã tổ_chức diễn_tập thành_công việc rải hỗn_hợp các chất Butyleste , 2,4 D và 2,4 , 5 T để phá_huỷ mùa_màng .
-Năm 1959 , Cơ_quan nghiên_cứu về chiến_tranh của Hoa_Kì có trụ_sở_tại Fort_Dietrict , bang_Maryland , đã tổ_chức diễn_tập thành_công_việc rải hỗn_hợp các chất Butyleste , 2,4 D và 2,4 , 5 T để phá_huỷ mùa_màng .
+Ảnh_hưởng của biến_đổi khí_hậu toàn_cầu đến khí_hậu Việt_Nam là rõ_rệt , ít_nhất từ nửa cuối thế_kỉ 20 , rõ_rệt nhất từ thập_kỉ 1991 - 2000 đến nay với xu_thế chung là nhiệt_độ tăng lên ở tất_cả các vùng , các thiên_tai hiện_hữu ( bão , lũ , lụt , hạn_hán , hiện_tượng El_Nino , La_Nina , tố lốc , sạt_lở đất ...) tăng lên về cường_độ và về tính_chất dị_thường , cực_đoan , một_số tăng lên cả về tần_suất xảy ra , mực nước_biển trung_bình tăng lên ở các trạm hải_văn ven biển .
+Ảnh_hưởng của biến_đổi khí_hậu toàn_cầu đến khí_hậu Việt_Nam là rõ_rệt , ít_nhất từ nửa cuối thế_kỉ 20 , rõ_rệt nhất từ thập_kỉ 1991 - 2000 đến nay với xu_thế chung là nhiệt_độ tăng lên ở tất_cả các vùng , các thiên_tai hiện_hữu ( bão , lũ , lụt , hạn_hán , hiện_tượng El_Nino , La_Nina , tố_lốc , sạt_lở đất ...) tăng lên về cường_độ và về tính_chất dị_thường , cực_đoan , một_số tăng lên cả về tần_suất xảy ra , mực nước_biển trung_bình tăng lên ở các trạm hải_văn ven biển .
  
-tại(BW) -> tại(IW) 
-Maryland(BW) -> Maryland(IW) 
-việc(BW) -> việc(IW) 
+lốc(BW) -> lốc(IW) 
 
 =====================
 
-Ngày 10 tháng 8 năm 1961 , chuyến bay rải chất_độc đầu_tiên được thực_hiện dọc quốc_lộ 14 , phía Bắc thị_xã Kontum .
-Ngày 10 tháng 8 năm 1961 , chuyến bay rải chất_độc đầu_tiên được thực_hiện dọc quốc_lộ 14 , phía Bắc_thị_xã Kontum .
+Để thực_hiện mục_tiêu đưa nước ta ra khỏi tình_trạng kém phát_triển và cơ_bản trở_thành một nước công_nghiệp vào năm 2020 , chúng_ta đang đẩy_mạnh công_nghiệp_hoá , thu_hút đầu_tư của nước_ngoài , các thành_phần kinh_tế trong nước ; không ngừng mở_rộng các khu_công_nghiệp và đô_thị với sự cạnh_tranh quyết_liệt giữa các nhà đầu_tư nước_ngoài và giữa các doanh_nghiệp , các địa_phương trong nước , trong bối_cảnh toàn_cầu_hoá và hội_nhập kinh_tế quốc_tế ; vấn_đề bảo_vệ môi_trường thường bị coi_nhẹ dẫn đến môi_trường bị ô_nhiễm nghiêm_trọng , áp_lực kinh_tế lên các hệ_sinh_thái ngày_càng tăng và tài_nguyên thiên_nhiên bị suy_giảm .
+Để thực_hiện mục_tiêu đưa nước ta ra khỏi tình_trạng kém phát_triển và cơ_bản trở_thành một nước công_nghiệp vào năm 2020 , chúng_ta đang đẩy_mạnh công_nghiệp_hoá , thu_hút đầu_tư của nước_ngoài , các thành_phần kinh_tế trong nước ; không ngừng mở_rộng các khu_công_nghiệp và đô_thị với sự cạnh_tranh quyết_liệt giữa các nhà_đầu_tư nước_ngoài và giữa các doanh_nghiệp , các địa_phương trong nước , trong bối_cảnh toàn_cầu_hoá và hội_nhập kinh_tế quốc_tế ; vấn_đề bảo_vệ môi_trường thường bị coi nhẹ dẫn đến môi_trường bị ô_nhiễm nghiêm_trọng , áp_lực kinh_tế lên các hệ_sinh_thái ngày_càng tăng và tài_nguyên thiên_nhiên bị suy_giảm .
  
-thị(BW) -> thị(IW) 
-
-=====================
-
-Giải_thích như thế là sai vì hai lí_do chính sau :
-Giải_thích như thế_là sai vì hai lí_do chính sau :
- 
-là(BW) -> là(IW) 
-
-=====================
-
-Quá liều_lượng cho_phép , chất không độc trở_thành chất độc , thậm_chí rất độc .
-Quá liều_lượng cho_phép , chất không độc trở_thành chất_độc , thậm_chí rất độc .
- 
-độc(BW) -> độc(IW) 
-
-=====================
-
-Thứ hai , các chất diệt cỏ và làm rụng lá có chứa dioxin , chất độc nhất trong các chất_độc mà con_người đã tìm ra .
-Thứ hai , các chất diệt cỏ và làm rụng lá có chứa dioxin , chất độc_nhất trong các chất_độc mà con_người đã tìm ra .
- 
-nhất(BW) -> nhất(IW) 
-
-=====================
-
-Các nhà_khoa_học trên thế_giới , trong đó có các nhà_khoa_học Mỹ , đã khẳng_định dioxin gây nên rất nhiều bệnh_tật , đặc_biệt là ung_thư , tai_biến sinh_sản và dị_tật bẩm_sinh .
-Các nhà_khoa_học trên thế_giới , trong đó có các nhà_khoa_học_Mỹ , đã khẳng_định dioxin gây nên rất nhiều bệnh_tật , đặc_biệt là ung_thư , tai_biến sinh_sản và dị_tật bẩm_sinh .
- 
-Mỹ(BW) -> Mỹ(IW) 
-
-=====================
-
-Thực_tiễn ở chính nước Mỹ đã mâu_thuẫn với những phản_bác của các luật_sư của các công_ty hoá_chất Mỹ và Toà_án_sơ_thẩm Mỹ trong tháng 3 năm 2005 vừa_qua .
-Thực_tiễn ở chính nước Mỹ đã mâu_thuẫn với những phản_bác của các luật_sư của các công_ty hoá_chất Mỹ và Toà_án sơ_thẩm_Mỹ trong tháng 3 năm 2005 vừa_qua .
- 
-Mỹ(BW) -> Mỹ(IW) 
-
-=====================
-
-Việc các công_ty hoá_chất Mỹ với sự dàn_xếp của Toà_án Mỹ đã phải chấp_nhận trợ_cấp cho các cựu_chiến_binh Mỹ bị nhiễm chất_độc hoá_học 180 triệu USD để đổi lấy việc họ rút đơn_kiện đã gián_tiếp thừa_nhận tác_hại của chất_độc hoá_học đối_với các cựu_chiến_binh này .
-Việc các công_ty hoá_chất Mỹ với sự dàn_xếp của Toà_án Mỹ đã phải chấp_nhận trợ_cấp cho các cựu_chiến_binh Mỹ bị nhiễm chất_độc hoá_học 180 triệu USD để đổi_lấy việc họ rút đơn_kiện đã gián_tiếp thừa_nhận tác_hại của chất_độc hoá_học đối_với các cựu chiến_binh này .
- 
-lấy(BW) -> lấy(IW) 
-
-=====================
-
-Trước đây , tháng 2 năm 1967 , nhận thấy sự nguy_hại của chất_độc hoá_học có chứa dioxin , khoảng 5000 nhà_khoa_học Mỹ , trong đó có 17 người được giải Nobel và 129 Viện_sĩ Viện_hàn_lâm_khoa_học_quốc_gia_Hoa_Kì đã yêu_cầu Tổng_thống Lyndon_Johnson dừng ngay cuộc chiến_tranh hoá_học nguy_hại này .
-Trước đây , tháng 2 năm 1967 , nhận thấy sự nguy_hại của chất_độc hoá_học có chứa dioxin , khoảng 5000 nhà_khoa_học_Mỹ , trong đó có 17 người được giải_Nobel và 129 Viện_sĩ Viện_hàn_lâm khoa_học quốc_gia Hoa_Kì đã yêu_cầu Tổng_thống Lyndon_Johnson dừng ngay cuộc chiến_tranh hoá_học nguy_hại này .
- 
-Mỹ(BW) -> Mỹ(IW) 
-Nobel(BW) -> Nobel(IW) 
-
-=====================
-
-Trong thời_gian của cuộc chiến_tranh hoá_học , có 14 triệu dân sinh_sống ở miền Nam và khoảng 02 triệu người là cán_bộ , chiến_sĩ miền Bắc vào tham_gia chiến_đấu ở miền Nam .
-Trong thời_gian của cuộc chiến_tranh hoá_học , có 14 triệu dân_sinh_sống ở miền Nam và khoảng 02 triệu người là cán_bộ , chiến_sĩ miền Bắc vào tham_gia chiến_đấu ở miền Nam .
- 
-sinh(BW) -> sinh(IW) 
-
-=====================
-
-Các nhà_khoa_học của trường Đại_học_tổng_hợp_Columbia ( Mỹ ) đã ước_tính ít_nhất có 2,1 triệu người và nhiều nhất là 4,8 triệu người Việt_Nam bị ảnh_hưởng của chất_độc hoá_học .
-Các nhà_khoa_học của trường Đại_học tổng_hợp Columbia ( Mỹ ) đã ước_tính ít_nhất có 2,1 triệu người và nhiều nhất_là 4,8 triệu người Việt_Nam bị ảnh_hưởng của chất_độc hoá_học .
- 
-là(BW) -> là(IW) 
-
-=====================
-
-Đất bị thoái_hoá , các hệ_sinh_thái bị phá_huỷ , nhiều loài động_vật và thực_vật đã bị huỷ_diệt , khả_năng phục_hồi sinh_thái kém , nhiều khu rừng mất khả_năng phòng_hộ đầu nguồn .
-Đất bị thoái_hoá , các hệ_sinh_thái bị phá_huỷ , nhiều loài động_vật và thực_vật đã bị huỷ_diệt , khả_năng phục_hồi_sinh_thái kém , nhiều khu rừng mất khả_năng phòng_hộ đầu nguồn .
- 
-sinh(BW) -> sinh(IW) 
-
-=====================
-
-Tại một_số vùng vốn là kho_tàng , sân_bay của quân_đội Mỹ , nồng_độ dioxin cao và rất cao ( thậm_chí hàng trăm_nghìn ppt , trong khi nồng_độ dioxin cho_phép trong đất nông_nghiệp Mỹ chỉ 1000 ppt ) .
-Tại một_số vùng vốn là kho_tàng , sân_bay của quân_đội Mỹ , nồng_độ dioxin cao và rất cao ( thậm_chí hàng trăm_nghìn ppt , trong khi nồng_độ dioxin cho_phép trong đất nông_nghiệp Mỹ_chỉ 1000 ppt ) .
- 
-chỉ(BW) -> chỉ(IW) 
-
-=====================
-
-Tháng 10 năm 1980 , Chính_phủ Việt_Nam đã thành_lập Uỷ_ban quốc_gia điều_tra hậu_quả chất_độc hoá_học dùng trong chiến_tranh ở Việt_Nam ( Uỷ_ban_10_80 ) .
-Tháng 10 năm 1980 , Chính_phủ Việt_Nam đã thành_lập Uỷ_ban_quốc_gia điều_tra hậu_quả chất_độc hoá_học dùng trong chiến_tranh ở Việt_Nam ( Uỷ_ban_10 80 ) .
- 
-quốc(BW) -> quốc(IW) 
-
-=====================
-
-Trưởng Ban_Chỉ_đạo_33 là Bộ_trưởng Bộ_Khoa_học,_Công_nghệ_và_Môi_trường .
-Trưởng_Ban_Chỉ_đạo_33 là Bộ_trưởng Bộ_Khoa_học, Công_nghệ và_Môi_trường .
- 
-Ban(BW) -> Ban(IW) 
-
-=====================
-
-Sau khi thành_lập Bộ_Tài_nguyên_và_Môi_trường , Thủ_tướng Chính_phủ đã ra Quyết_định số 173 / 2002 / QĐ - TTg ngày 02 tháng 12 năm 2003 , giao cho Bộ_trưởng Bộ_Tài_nguyên_và_Môi_trường làm Trưởng Ban_Chỉ_đạo_33 .
-Sau khi thành_lập Bộ_Tài_nguyên và_Môi_trường , Thủ_tướng Chính_phủ đã ra Quyết_định_số 173 / 2002 / QĐ - TTg ngày 02 tháng 12 năm 2003 , giao cho Bộ_trưởng Bộ_Tài_nguyên và_Môi_trường làm Trưởng_Ban_Chỉ_đạo_33 .
- 
-số(BW) -> số(IW) 
-Ban(BW) -> Ban(IW) 
-
-=====================
-
-Tính đến nay , đã có hơn 209.000 nạn_nhân chất_độc hoá_học được hưởng chế_độ trợ_cấp theo Quyết_định số 120 / 2004 / QĐ - TTg đối_với những người tham_gia kháng_chiến và con_đẻ của họ bị bệnh do chất_độc hoá_học và đã có 3.400 gia_đình có từ 02 nạn_nhân trở_nên được hưởng chế_độ theo quyết_định số 16 / 2004 / QĐ - TTg .
-Tính đến nay , đã có hơn 209.000 nạn_nhân chất_độc hoá_học được hưởng chế_độ trợ_cấp theo Quyết_định_số 120 / 2004 / QĐ - TTg đối_với những người tham_gia kháng_chiến và con_đẻ của họ bị bệnh do chất_độc hoá_học và đã có 3.400 gia_đình có từ 02 nạn_nhân trở_nên được hưởng chế_độ theo quyết_định số 16 / 2004 / QĐ - TTg .
- 
-số(BW) -> số(IW) 
-
-=====================
-
-Từng bước hình_thành các cơ_sở tư_vấn sinh_sản để hạn_chế sinh ra những trẻ_em bị dị_tật , ...
-Từng bước hình_thành các cơ_sở tư_vấn sinh_sản để hạn_chế sinh_ra những trẻ_em bị dị_tật , ...
- 
-ra(BW) -> ra(IW) 
-
-=====================
-
-Thời_gian này đủ để thống_kê doanh_thu phòng vé bước_đầu và cũng là mốc thời_gian quan_trọng nhất đánh_giá sức hút của một bộ phim .
-Thời_gian này đủ để thống_kê doanh_thu phòng vé bước_đầu và cũng là mốc thời_gian quan_trọng nhất đánh_giá sức_hút của một bộ phim .
- 
-hút(BW) -> hút(IW) 
-
-=====================
-
-Thế_nhưng , theo chia_sẻ của ông Nguyễn_Thanh_Sơn , đại_diện nhà_sản_xuất Blue_Productions , doanh_thu Đường_đua không được như mong_đợi , thậm_chí là ở mức “ đáng buồn ” trước cuộc đổ_bộ của các phim ngoại .
-Thế_nhưng , theo chia_sẻ của ông Nguyễn_Thanh_Sơn , đại_diện nhà_sản_xuất Blue_Productions , doanh_thu Đường_đua không được như mong_đợi , thậm_chí là ở mức “ đáng_buồn ” trước cuộc đổ_bộ của các phim ngoại .
- 
-buồn(BW) -> buồn(IW) 
-
-=====================
-
-Chưa nói đến những phim bom tấn của Hollywood ra rạp cùng thời_điểm , doanh_thu Đường_đua , phim được báo_chí và giới chuyên_môn dành nhiều lời khen , còn thua xa phim Thái_Lan Pee_Mak ( tựa tiếng Việt : Tình_người_duyên_ma ) .
-Chưa nói đến những phim bom tấn của Hollywood ra rạp cùng thời_điểm , doanh_thu Đường_đua , phim được báo_chí và giới chuyên_môn dành nhiều lời_khen , còn thua xa phim Thái_Lan_Pee_Mak ( tựa tiếng Việt : Tình người duyên ma ) .
- 
-khen(BW) -> khen(IW) 
-Pee(BW) -> Pee(IW) 
-
-=====================
-
-“ Thực_ra mình cũng đã lường trước việc này khi làm một bộ phim đụng_chạm đến đề_tài xã_hội , mọi người sẽ nghĩ đây là phim bạo_lực hay xã_hội_đen nhưng mình đầu_tư làm phim này vì nó đề_cập đến một vấn_đề khác , vấn_đề tâm_đắc , đặt ra một câu_hỏi ngầm : Ai sẽ bảo_vệ thân_phận nhỏ_bé , không chỗ dựa của những người bé_nhỏ trong xã_hội hiện_nay ? ” - ông Nguyễn_Thanh_Sơn tâm_sự trên trang cá_nhân .
-“ Thực_ra mình cũng đã lường trước việc này khi làm một bộ phim đụng_chạm đến đề_tài xã_hội , mọi người sẽ nghĩ đây là phim bạo_lực hay xã_hội đen nhưng mình đầu_tư làm phim này vì nó đề_cập đến một vấn_đề khác , vấn_đề tâm_đắc , đặt ra một câu_hỏi ngầm : Ai sẽ bảo_vệ thân_phận nhỏ_bé , không chỗ_dựa của những người bé_nhỏ trong xã_hội hiện_nay ? ” - ông Nguyễn_Thanh_Sơn tâm_sự trên trang cá_nhân .
- 
-dựa(BW) -> dựa(IW) 
-
-=====================
-
-Kết_quả này khiến nhiều người trong giới chùn bước .
-Kết_quả này khiến nhiều người trong giới chùn_bước .
- 
-bước(BW) -> bước(IW) 
-
-=====================
-
-Rất nhiều trang cá_nhân cũng đã chia_sẻ thông_tin , kêu_gọi ra rạp xem Đường_đua “ ủng_hộ phim Việt ” .
-Rất nhiều trang cá_nhân cũng đã chia_sẻ thông_tin , kêu_gọi ra rạp xem Đường_đua “ ủng_hộ phim_Việt ” .
- 
-Việt(BW) -> Việt(IW) 
-
-=====================
-
-Động_thái này cũng chỉ góp một phần nhỏ lôi_kéo khán_giả cho các phòng vé , trong khi thành_công doanh_thu của một bộ phim thuộc về sự tự_nguyện hào_hứng của số đông .
-Động_thái này cũng chỉ góp một phần nhỏ lôi_kéo khán_giả cho các phòng vé , trong khi thành_công doanh_thu của một bộ phim thuộc về sự tự_nguyện hào_hứng của số_đông .
- 
-đông(BW) -> đông(IW) 
-
-=====================
-
-“ Làm bộ phim này , chúng_tôi hướng đến đối_tượng khán_giả sau 30 tuổi trong khi cũng biết rõ độ tuổi đến rạp xem phim hiện_nay chủ_yếu là khán_giả trẻ hơn .
-“ Làm_bộ phim này , chúng_tôi hướng đến đối_tượng khán_giả sau 30 tuổi trong khi cũng biết rõ độ tuổi đến rạp xem phim hiện_nay chủ_yếu là khán_giả trẻ hơn .
- 
-bộ(BW) -> bộ(IW) 
-
-=====================
-
-Nhưng nhà sản_xuất cũng bày_tỏ chân_tình là sẽ xem_xét lại từ phản_ứng của khán_giả và có sự cân_nhắc , tính_toán cẩn_trọng hơn cho những bước tiếp_theo .
-Nhưng nhà_sản_xuất cũng bày_tỏ chân_tình là sẽ xem_xét lại từ phản_ứng của khán_giả và có sự cân_nhắc , tính_toán cẩn_trọng hơn cho những bước tiếp_theo .
- 
-sản(BW) -> sản(IW) 
-
-=====================
-
-Tuy_nhiên , những năm sau_này , phim trái_mùa trở_lại thất_bại cũ khi lọt_thỏm giữa những bộ phim ngoại có sức hút lớn hơn .
-Tuy_nhiên , những năm sau này , phim trái_mùa trở_lại thất_bại cũ khi lọt_thỏm giữa những bộ phim ngoại có sức_hút lớn hơn .
- 
-hút(BW) -> hút(IW) 
-
-=====================
-
-“ Nếu Tết chỉ 2 , 3 phim ra rạp thì thắng ; còn quá nhiều phim cùng ra rạp chỉ có chết mà thôi ! ” - đạo_diễn Lê_Bảo_Trung nói .
-“ Nếu Tết_chỉ 2 , 3 phim ra rạp thì thắng ; còn quá nhiều phim cùng ra rạp chỉ có chết mà_thôi ! ” - đạo_diễn Lê_Bảo_Trung nói .
- 
-chỉ(BW) -> chỉ(IW) 
-thôi(BW) -> thôi(IW) 
-
-=====================
-
-Cũng chính vì_vậy mà bộ phim Biết_chết_liền của anh đã chọn thời_điểm lùi lại đến tháng 4 sau Tết nhưng mãi đến tháng 6 , phim mới ra rạp .
-Cũng chính vì_vậy_mà bộ phim_Biết chết liền của anh đã chọn thời_điểm lùi lại đến tháng 4 sau Tết nhưng mãi đến tháng 6 , phim mới ra rạp .
- 
-mà(BW) -> mà(IW) 
-Biết(BW) -> Biết(IW) 
-
-=====================
-
-“ Nhà làm phim Việt phải luôn “ sống trong sợ_hãi ” , làm kinh_dị quá thì sợ không phù_hợp với những nguyên_tắc cho_phép của Cục_Điện_ảnh , nếu không tạo yếu_tố hài_hước thì khán_giả lại không thích xem .
-“ Nhà_làm phim Việt phải luôn “ sống trong sợ_hãi ” , làm kinh_dị quá thì sợ không phù_hợp với những nguyên_tắc cho_phép của Cục_Điện_ảnh , nếu không tạo yếu_tố hài_hước thì khán_giả lại không thích xem .
- 
-làm(BW) -> làm(IW) 
-
-=====================
-
-Nói_chung , mỗi lần làm một bộ phim , tôi phải cân_nhắc đủ đường ” - đạo_diễn Lê_Bảo_Trung phân_trần .
-Nói_chung , mỗi lần làm một bộ phim , tôi phải cân_nhắc đủ đường ” - đạo_diễn Lê_Bảo Trung_phân_trần .
- 
-phân(BW) -> phân(IW) 
-
-=====================
-
-Theo ông Nguyễn_Thanh_Sơn : “ Thời_điểm nào cũng sẽ có phim ngoại hay ra rạp , mùa Tết cũng vậy , chưa kể quá nhiều phim Việt ra rạp mùa Tết cũng không phải là tốt .
-Theo ông Nguyễn_Thanh_Sơn : “ Thời_điểm nào cũng sẽ có phim ngoại hay ra rạp , mùa Tết cũng_vậy , chưa kể quá nhiều phim Việt ra rạp mùa Tết cũng không phải là tốt .
- 
-vậy(BW) -> vậy(IW) 
-
-=====================
-
-Ngày_nay , do lạm_phát diễn ra trong bối_cảnh nền kinh_tế tăng_trưởng tương_đối cao , nên các yếu_tố , đặc_điểm và tác_động của lạm_phát không hoàn_toàn giống nhau , cũng không theo một chiều , nên cách_thức chống lạm_phát cũng không đồng_loạt một chiều mà cần được định ra tuỳ theo tính_chất và đặc_điểm của mỗi loại nguyên căn .
-Ngày_nay , do lạm_phát diễn ra trong bối_cảnh nền kinh_tế tăng_trưởng tương_đối cao , nên các yếu_tố , đặc_điểm và tác_động của lạm_phát không hoàn_toàn giống nhau , cũng không theo một_chiều , nên cách_thức chống lạm_phát cũng không đồng_loạt một_chiều mà cần được định ra tuỳ theo tính_chất và đặc_điểm của mỗi loại nguyên căn .
- 
-chiều(BW) -> chiều(IW) 
-chiều(BW) -> chiều(IW) 
-
-=====================
-
-Lạm_phát diễn ra trong thể_trạng nền kinh_tế_thị_trường đang trên đà phát_triển , nhưng vẫn còn non_trẻ , chưa đủ độ trưởng_thành , mà đã tăng_trưởng nóng , giống như một đứa trẻ mới lớn đã bị sốt nóng , tuy có khả_năng hồi_phục nhanh , nhưng sức chịu_đựng yếu_ớt , dễ bị tổn_thương trước cơn sốc lạm_phát cao , do_đó nếu không có phác_đồ điều_trị thận_trọng , chu_đáo , thì không_những không_thể chữa khỏi bệnh , mà_còn có_thể làm cho bệnh_tình trở_nên trầm_trọng hơn , thậm_chí biến_tướng thành bệnh khác nặng_nề và nguy_hiểm hơn ;
-Lạm_phát diễn ra trong thể_trạng nền kinh_tế thị_trường đang trên đà phát_triển , nhưng vẫn còn non_trẻ , chưa đủ độ trưởng_thành , mà đã tăng_trưởng nóng , giống_như một đứa trẻ mới lớn đã bị sốt nóng , tuy có khả_năng hồi_phục nhanh , nhưng sức chịu_đựng yếu_ớt , dễ bị tổn_thương trước cơn sốc lạm_phát cao , do_đó nếu không có phác_đồ điều_trị thận_trọng , chu_đáo , thì không_những không_thể chữa khỏi bệnh , mà_còn có_thể làm cho bệnh_tình trở_nên trầm_trọng hơn , thậm_chí biến_tướng thành bệnh khác nặng_nề và nguy_hiểm hơn ;
- 
-như(BW) -> như(IW) 
-
-=====================
-
-Lạm_phát diễn ra trong bối_cảnh hội_nhập kinh_tế quốc_tế cao , tổng giá_trị ngoại_thương năm 2007 tương_đương 140 % tổng GDP , đến giữa năm 2008 tăng lên 160 % , một nguồn ngoại_tệ lớn đổ vào nền kinh_tế thông_qua xuất_khẩu , đầu_tư , viện_trợ , kiều_hối , du_lịch ... mà chưa kịp điều_hoà , giống như hiện_tượng vẫn được gọi_là “ căn_bệnh Hà_Lan ” ( the Dutch disease ) , một hiện_tượng tuy có lợi cho việc thu_hút vốn , nhưng gây hại lớn cho các hoạt_động xuất_nhập_khẩu và cho đồng nội_tệ ;
-Lạm_phát diễn ra trong bối_cảnh hội_nhập kinh_tế quốc_tế cao , tổng_giá_trị ngoại_thương năm 2007 tương_đương 140 % tổng GDP , đến giữa năm 2008 tăng lên 160 % , một nguồn ngoại_tệ lớn đổ vào nền kinh_tế thông_qua xuất_khẩu , đầu_tư , viện_trợ , kiều_hối , du_lịch ... mà chưa kịp điều_hoà , giống như hiện_tượng vẫn được gọi_là “ căn_bệnh Hà_Lan ” ( the Dutch_disease ) , một hiện_tượng tuy có lợi cho việc thu_hút vốn , nhưng gây hại lớn cho các hoạt_động xuất_nhập_khẩu và cho đồng_nội_tệ ;
- 
-giá(BW) -> giá(IW) 
-disease(BW) -> disease(IW) 
-nội(BW) -> nội(IW) 
-
-=====================
-
-Nhìn lại quá_trình phát_triển 20 năm qua , người_ta thấy đối_với nền kinh_tế thế_giới và châu_Á , lạm_phát và khủng_hoảng đã từng diễn ra trong các năm 1997 - 1998 , nay tái_diễn từ cuối năm 2007 , có xu_hướng ngày_càng trầm_trọng hơn và có nhiều khả_năng kéo_dài đến hết năm 2010 ; đối_với Việt_Nam cũng vậy , lạm_phát siêu cao và cao cùng_với khủng_hoảng_kinh_tế - xã_hội trầm_trọng đã từng diễn ra và kéo_dài suốt hai thập_kỉ từ cuối những năm 1970 đến giữa những năm 1990 , sau đó giảm xuống một chữ_số trong một thập_kỉ , nay lại bùng_phát , năm 2008 có_thể tăng lên mức 24 % .
-Nhìn lại quá_trình phát_triển 20 năm qua , người_ta thấy đối_với nền kinh_tế thế_giới và châu_Á , lạm_phát và khủng_hoảng đã từng diễn ra trong các năm 1997 - 1998 , nay tái_diễn từ cuối năm 2007 , có xu_hướng ngày_càng trầm_trọng hơn và có nhiều khả_năng kéo_dài đến hết năm 2010 ; đối_với Việt_Nam cũng_vậy , lạm_phát siêu cao và cao cùng_với khủng_hoảng kinh_tế - xã_hội trầm_trọng đã từng diễn ra và kéo_dài suốt hai thập_kỉ từ cuối những năm 1970 đến giữa những năm 1990 , sau_đó giảm xuống một chữ_số trong một thập_kỉ , nay lại bùng_phát , năm 2008 có_thể tăng lên mức 24 % .
- 
-vậy(BW) -> vậy(IW) 
-đó(BW) -> đó(IW) 
-
-=====================
-
-Thực_tế này đòi_hỏi phải xem_xét vấn_đề lạm_phát trong mối quan_hệ hai mặt : một_mặt , không_thể chỉ xem_xét lạm_phát với tư_cách một vấn_đề khu_biệt riêng bản_thân nó , mà cần xem_xét nó trong bối_cảnh chung của các chu_kỳ kinh_tế - xã_hội ;
-Thực_tế này đòi_hỏi phải xem_xét vấn_đề lạm_phát trong mối quan_hệ hai_mặt : một_mặt , không_thể chỉ xem_xét lạm_phát với tư_cách một vấn_đề khu_biệt riêng bản_thân nó , mà cần xem_xét nó trong bối_cảnh chung của các chu_kỳ kinh_tế - xã_hội ;
- 
-mặt(BW) -> mặt(IW) 
-
-=====================
-
-mặt_khác , khi thấy nền kinh_tế - xã_hội có dấu_hiệu hoặc xu_hướng tiến_triển tốt_đẹp thì không nên quá lạc_quan , say_sưa với những thành_tích đã đạt được , phê_duyệt quá nhiều dự_án đầu_tư lớn đầy tham_vọng và dàn_trải , kém khả_năng thực_thi , quên mất những hạn_chế lớn và cơ_bản của một nền kinh_tế vào loại kém phát_triển nhất thế_giới , từ đó thiếu cảnh_giác , đề_phòng , thiếu dự_báo và thiếu việc chuẩn_bị phương_án khắc_phục lạm_phát , vì tuy vào một thời_điểm nhất_định tình_hình kinh_tế - xã_hội và lạm_phát đã được cải_thiện , nhưng lạm_phát và khủng_hoảng luôn như những căn_bệnh âm_ỉ , những hiểm_hoạ tiềm_ẩn , chỉ một hai chục năm sau , khi có môi_trường thuận_lợi là ngay_lập_tức bung ra , nổi lên gây_hấn , từ lạm_phát có_thể dẫn đến khủng_hoảng , và ngược_lại , khủng_hoảng làm cho lạm_phát trở_nên trầm_trọng hơn , khó chữa hơn .
-mặt_khác , khi thấy nền kinh_tế - xã_hội có dấu_hiệu hoặc xu_hướng tiến_triển tốt_đẹp thì không nên quá lạc_quan , say_sưa với những thành_tích đã đạt được , phê_duyệt quá nhiều dự_án đầu_tư lớn đầy tham_vọng và dàn_trải , kém khả_năng thực_thi , quên mất những hạn_chế lớn và cơ_bản của một nền kinh_tế vào loại kém phát_triển nhất thế_giới , từ đó thiếu cảnh_giác , đề_phòng , thiếu dự_báo và thiếu việc chuẩn_bị phương_án khắc_phục lạm_phát , vì tuy vào một thời_điểm nhất_định tình_hình kinh_tế - xã_hội và lạm_phát đã được cải_thiện , nhưng lạm_phát và khủng_hoảng_luôn như những căn_bệnh âm_ỉ , những hiểm_hoạ tiềm_ẩn , chỉ một_hai chục năm sau , khi có môi_trường thuận_lợi là ngay lập_tức bung ra , nổi lên gây hấn , từ lạm_phát có_thể dẫn đến khủng_hoảng , và ngược_lại , khủng_hoảng làm cho lạm_phát trở_nên trầm_trọng hơn , khó chữa hơn .
- 
-luôn(BW) -> luôn(IW) 
-hai(BW) -> hai(IW) 
-
-=====================
-
-Trước và trong những năm đầu của thời_kỳ đổi_mới , những nguyên_nhân chính dẫn tới lạm_phát “ phi_mã ” gồm có :
-Trước và trong những năm đầu của thời_kỳ đổi_mới , những nguyên_nhân_chính dẫn tới lạm_phát “ phi_mã ” gồm có :
- 
-chính(BW) -> chính(IW) 
-
-=====================
-
-Cái khác hai hai là nếu_như trước đây nguồn cung tiền_mặt nhiều trong khi hàng_hoá khan_hiếm và đầu_tư phát_triển ít_ỏi , thì hiện_nay lượng tiền đổ vào lưu_thông ngày_càng tăng lên cùng_với sự tăng lên của các nguồn hàng , và đặc_biệt quan_trọng là các nguồn đầu_tư phát_triển .
-Cái khác hai hai là nếu như trước đây nguồn cung tiền_mặt nhiều trong khi hàng_hoá khan_hiếm và đầu_tư phát_triển ít_ỏi , thì hiện_nay lượng tiền đổ vào lưu_thông ngày_càng tăng lên cùng_với sự tăng lên của các nguồn_hàng , và đặc_biệt quan_trọng là các nguồn đầu_tư phát_triển .
- 
-hàng(BW) -> hàng(IW) 
-
-=====================
-
-Bằng_chứng nổi_bật nhất là tổng đầu_tư xã_hội của nước ta đã tăng từ khoảng 10 % GDP thời_kỳ đầu đổi_mới lên trên 40 % GDP năm 2007 , đầu_tư ngân_sách cũng lên đến 20 % GDP , tạo ra một sự tăng_trưởng trong gần 20 năm dựa chủ_yếu vào tăng vốn đầu_tư .
-Bằng_chứng nổi_bật nhất_là tổng đầu_tư xã_hội của nước ta đã tăng từ khoảng 10 % GDP thời_kỳ đầu đổi_mới lên trên 40 % GDP năm 2007 , đầu_tư ngân_sách cũng lên đến 20 % GDP , tạo ra một sự tăng_trưởng trong gần 20 năm dựa chủ_yếu vào tăng vốn đầu_tư .
- 
-là(BW) -> là(IW) 
-
-=====================
-
-Kinh_nghiệm từ cuộc khủng_hoảng tài_chính châu_Á năm 1997 - 98 cho thấy , khi điều_kiện này không được đáp_ứng , thậm_chí còn bị lạm_dụng quá mức , thì nó đã dẫn đến sự chuyển_hoá từ thuốc_bổ thành thuốc_độc , “ bí_quyết thành_công ” trở_thành “ căn_bệnh chết người ” , thành tác_nhân gây ra khủng_hoảng !
-Kinh_nghiệm từ cuộc khủng_hoảng tài_chính châu_Á năm 1997 - 98 cho thấy , khi điều_kiện này không được đáp_ứng , thậm_chí còn bị lạm_dụng quá_mức , thì nó đã dẫn đến sự chuyển_hoá từ thuốc_bổ thành thuốc_độc , “ bí_quyết thành_công ” trở_thành “ căn_bệnh chết_người ” , thành tác_nhân gây ra khủng_hoảng !
- 
-mức(BW) -> mức(IW) 
-người(BW) -> người(IW) 
-
-=====================
-
-Thứ tư , biên_độ dao_động của tỉ_giá_hối_đoái giữa đồng_tiền Việt_Nam so với đồng đôla Mĩ quy_định ở mức 2 % là thấp hơn so với mức 5 % của thời_kỳ chống lạm_phát trước đây , nhưng so với mức lạm_phát hiện_nay cũng thấp hơn trước và trong bối_cảnh có một lượng ngoại_tệ lớn lưu_thông trên thị_trường , mà phần_lớn là đồng đôla Mĩ đang mất_giá , thì mức quy_định mới này là tương_đối hợp_lí .
-Thứ_tư , biên_độ dao_động của tỉ_giá hối_đoái giữa đồng_tiền Việt_Nam so với đồng đôla Mĩ quy_định ở mức 2 % là thấp hơn so với mức 5 % của thời_kỳ chống lạm_phát trước đây , nhưng so với mức lạm_phát hiện_nay cũng thấp hơn trước và trong bối_cảnh có một lượng ngoại_tệ lớn lưu_thông trên thị_trường , mà phần_lớn là đồng đôla Mĩ đang mất_giá , thì mức quy_định mới này là tương_đối_hợp_lí .
- 
-tư(BW) -> tư(IW) 
-hợp(BW) -> hợp(IW) 
-
-=====================
-
-Tất_nhiên , sự tác_động của biện_pháp này đến đâu còn phải chờ vào kết_quả thực_tế , nhưng dù_sao biện_pháp này không_thể chỉ định ra một lần rồi thôi , mà cần được điều_chỉnh một_cách linh_hoạt tuỳ theo diễn_biến thực_tế của thị_trường_tiền_tệ .
-Tất_nhiên , sự tác_động của biện_pháp này đến đâu còn phải chờ vào kết_quả thực_tế , nhưng dù_sao biện_pháp này không_thể chỉ_định ra một lần rồi thôi , mà cần được điều_chỉnh một_cách linh_hoạt tuỳ theo diễn_biến thực_tế của thị_trường tiền_tệ .
- 
-định(BW) -> định(IW) 
-
-=====================
-
-Trong hai loại biện_pháp này , cắt_giảm mạnh in tiền có tác_dụng lớn và lâu_dài , còn đổi tiền chỉ có tác_dụng tức_thời được vài tháng rồi mất tác_dụng , thậm_chí còn gây ra đầu_cơ tiền mới .
-Trong hai loại biện_pháp này , cắt_giảm mạnh in tiền có tác_dụng lớn và lâu_dài , còn đổi_tiền chỉ có tác_dụng tức_thời được vài tháng rồi mất tác_dụng , thậm_chí còn gây ra đầu_cơ tiền mới .
- 
-tiền(BW) -> tiền(IW) 
-
-=====================
-
-Đây là biện_pháp có sức hút lớn đối_với nguồn tiền gửi , khiến chỉ trong một thời_gian ngắn đã có một lượng tiền lớn được gửi vào ngân_hàng , vơi hẳn nguồn tiền trôi_nổi trong lưu_thông , nhanh_chóng hạ nhiệt cơn_sốt lạm_phát .
-Đây là biện_pháp có sức_hút lớn đối_với nguồn tiền gửi , khiến chỉ trong một thời_gian ngắn đã có một lượng tiền lớn được gửi vào ngân_hàng , vơi hẳn nguồn tiền trôi_nổi trong lưu_thông , nhanh_chóng hạ_nhiệt cơn_sốt lạm_phát .
- 
-hút(BW) -> hút(IW) 
-nhiệt(BW) -> nhiệt(IW) 
-
-=====================
-
-3 - Tập_trung phát_triển sản_xuất , dịch_vụ , cân_đối cung_cầu hàng_hoá , coi đây là giải_pháp gốc để kiềm_chế lạm_phát ;
-3 - Tập_trung phát_triển sản_xuất , dịch_vụ , cân_đối cung_cầu_hàng_hoá , coi đây là giải_pháp gốc để kiềm_chế lạm_phát ;
- 
-hàng(BW) -> hàng(IW) 
-
-=====================
-
-6 - Tăng_cường quản_lí thị_trường , chống đầu_cơ , buôn_lậu và gian_lận thương_mại ;
-6 - Tăng_cường quản_lí_thị_trường , chống đầu_cơ , buôn_lậu và gian_lận thương_mại ;
- 
-thị(BW) -> thị(IW) 
-
-=====================
-
-Chủ_trương như vậy , nhưng trong thực_tế do cách hiểu giữa các cơ_quan quản_lí khác nhau , nhận_thức về trọng_tâm ưu_tiên không rõ_ràng , không biết đâu là căn_bệnh chính và đâu là phương_thuốc chữa_trị chính , vì_thế việc thực_hiện tỏ ra lúng_túng , không đồng_bộ với nhau , thậm_chí trong một_số trường_hợp đã có những biện_pháp thực_thi trái_ngược nhau .
-Chủ_trương như vậy , nhưng trong thực_tế do cách hiểu giữa các cơ_quan quản_lí khác nhau , nhận_thức về trọng_tâm ưu_tiên không rõ_ràng , không biết_đâu là căn_bệnh chính và đâu là phương_thuốc chữa_trị chính , vì_thế việc thực_hiện tỏ ra lúng_túng , không đồng_bộ với nhau , thậm_chí trong một_số trường_hợp đã có những biện_pháp thực_thi trái_ngược nhau .
- 
-đâu(BW) -> đâu(IW) 
-
-=====================
-
-Trái với quyết_định tung tiền nêu trên , ngày 17 / 3 cũng chính Ngân_hàng Nhà_nước đã ra quyết_định yêu_cầu 41 ngân_hàng thương_mại phải mua “ tín_phiếu bắt_buộc ” theo kiểu mệnh_lệnh hành_chính với lãi_suất 7,8 % và tổng giá_trị tiền là 20.300 tỉ đồng với mục_đích găm tiền lại để hạn_chế nguồn tiền trong lưu_thông .
-Trái với quyết_định tung tiền nêu trên , ngày 17 / 3 cũng chính Ngân_hàng Nhà_nước đã ra quyết_định yêu_cầu 41 ngân_hàng thương_mại phải mua “ tín_phiếu bắt_buộc ” theo kiểu mệnh_lệnh hành_chính với lãi_suất 7,8 % và tổng_giá_trị tiền là 20.300 tỉ đồng với mục_đích găm tiền lại để hạn_chế nguồn tiền trong lưu_thông .
- 
-giá(BW) -> giá(IW) 
-
-=====================
-
-Nguyên_nhân chính là do chưa có chế_độ lãi_suất dương , cũng chưa thực_thi các chính_sách , biện_pháp khắc_khổ một_cách hữu_hiệu , với quyết_tâm cao .
-Nguyên_nhân_chính là do chưa có chế_độ lãi_suất dương , cũng chưa thực_thi các chính_sách , biện_pháp khắc_khổ một_cách hữu_hiệu , với quyết_tâm cao .
- 
-chính(BW) -> chính(IW) 
-
-=====================
-
-Những biện_pháp đã áp_dụng chủ_yếu mới mang nặng tính tình_thế , chưa cơ_bản , chưa có liệu_pháp mạnh , chưa hoặc ít đả_động tới các khoản đầu_tư lãng_phí , kém sinh_lợi , thậm_chí còn đi ngược_lại với những đòi_hỏi của thực_tế , do_đó chưa bình_ổn được giá_cả , nhất_là giá các mặt_hàng tiêu_dùng thiết_yếu như lương_thực , thực_phẩm và giá xăng_dầu là những loại mặt_hàng chiếm tới 40 % tổng giá_trị của rổ hàng_hoá được tính , vì_thế không_những không sớm đạt được mục_tiêu bình_ổn vĩ_mô , cắt_cơn lạm_phát , mà trái_lại còn có chiều_hướng để lạm_phát dây_dưa , kéo_dài .
-Những biện_pháp đã áp_dụng chủ_yếu mới mang nặng tính tình_thế , chưa cơ_bản , chưa có liệu_pháp mạnh , chưa hoặc ít đả_động tới các khoản đầu_tư lãng_phí , kém sinh_lợi , thậm_chí còn đi ngược_lại với những đòi_hỏi của thực_tế , do_đó chưa bình_ổn được giá_cả , nhất_là giá các mặt_hàng tiêu_dùng thiết_yếu như lương_thực , thực_phẩm và giá xăng_dầu là những loại mặt_hàng chiếm tới 40 % tổng_giá_trị của rổ hàng_hoá được tính , vì_thế không_những không sớm đạt được mục_tiêu bình_ổn vĩ_mô , cắt cơn lạm_phát , mà trái_lại còn có chiều hướng để lạm_phát dây_dưa , kéo_dài .
- 
-giá(BW) -> giá(IW) 
-
-=====================
-
-Đây là biện_pháp quan_trọng nhất , vì nó có khả_năng tác_động mạnh nhất tới việc thu_hút nguồn tiền lớn nhất đang lưu_hành trên thị_trường , nguồn tiền này là tác_nhân chính gây ra tình_trạng lạm_phát hiện_nay .
-Đây là biện_pháp quan_trọng nhất , vì nó có khả_năng tác_động mạnh nhất tới việc thu_hút nguồn tiền lớn nhất đang lưu_hành trên thị_trường , nguồn tiền này là tác_nhân_chính gây ra tình_trạng lạm_phát hiện_nay .
- 
-chính(BW) -> chính(IW) 
-
-=====================
-
-Thực_hiện theo giải_pháp này có nghĩa là , nếu thực_tế lạm_phát 9 tháng đầu năm 2008 là 21 % / năm , thì lãi_suất tiền gửi phải được nâng lên mức 22 - 23 % / năm để nhanh_chóng rút bớt một lượng lớn tiền_mặt đang lưu_hành trong lưu_thông , giảm bớt áp_lực lạm_phát .
-Thực_hiện theo giải_pháp này có nghĩa_là , nếu thực_tế lạm_phát 9 tháng đầu năm 2008 là 21 % / năm , thì lãi_suất tiền gửi phải được nâng lên mức 22 - 23 % / năm để nhanh_chóng rút bớt một lượng lớn tiền_mặt đang lưu_hành trong lưu_thông , giảm bớt áp_lực lạm_phát .
- 
-là(BW) -> là(IW) 
-
-=====================
-
-Không_những thế , lãi_suất tiền gửi và tiền cho vay cao sẽ trở_thành những cục nước_đá lạnh làm hạ nhiệt các nhà đầu_cơ trong các lĩnh_vực kinh_doanh bất_động_sản , chứng_khoán và hàng_hoá tiêu_dùng cao_cấp , đắt tiền , siêu_lợi_nhuận , vì lãi_suất cao chính là con dao sắc_bén nhất cắt thẳng vào các khoản siêu_lợi_nhuận của các nhà_đầu_cơ , và khi siêu_lợi_nhuận không còn nữa thì chắc_chắn các nhà_đầu_cơ sẽ buộc phải chuyển các khoản đầu_cơ hết lợi_nhuận siêu_ngạch vào các ngân_hàng để từ đó tái_phân_bố nguồn_lực đầu_tư vào các lĩnh_vực hoạt_động sản_xuất , kinh_doanh lành_mạnh và hiệu_quả .
-Không_những thế , lãi_suất tiền gửi và tiền cho vay cao sẽ trở_thành những cục nước_đá lạnh làm hạ_nhiệt các nhà_đầu_cơ trong các lĩnh_vực kinh_doanh bất_động_sản , chứng_khoán và hàng_hoá tiêu_dùng cao_cấp , đắt tiền , siêu_lợi_nhuận , vì lãi_suất cao chính là con dao sắc_bén nhất cắt thẳng vào các khoản siêu_lợi_nhuận của các nhà_đầu_cơ , và khi siêu_lợi_nhuận không còn nữa thì chắc_chắn các nhà_đầu_cơ sẽ buộc phải chuyển các khoản đầu_cơ hết lợi_nhuận siêu_ngạch vào các ngân_hàng để từ đó tái phân_bố nguồn_lực đầu_tư vào các lĩnh_vực hoạt_động sản_xuất , kinh_doanh lành_mạnh và hiệu_quả .
- 
-nhiệt(BW) -> nhiệt(IW) 
 đầu(BW) -> đầu(IW) 
 
 =====================
 
-Nếu không đảm_bảo an_sinh xã_hội sẽ làm cho những người có đời_sống khó_khăn càng thêm khó_khăn , một trong những nguyên_nhân cơ_bản dẫn tới mất ổn_định xã_hội .
-Nếu không đảm_bảo_an_sinh xã_hội sẽ làm cho những người có đời_sống khó_khăn càng thêm khó_khăn , một trong những nguyên_nhân cơ_bản dẫn tới mất ổn_định xã_hội .
+1 / Sự nóng lên toàn_cầu của hệ_thống khí_hậu hiện_nay là chưa từng có và rất rõ_ràng từ những quan_trắc nhiệt_độ và đại_dương trung_bình toàn_cầu , sự tan chảy của băng và tuyết trên phạm_vi rộng_lớn và sự dâng lên của mực nước_biển trung_bình toàn_cầu :
+1 / Sự nóng lên toàn_cầu của hệ_thống khí_hậu hiện_nay là chưa_từng có và rất rõ_ràng từ những quan_trắc nhiệt_độ và đại_dương trung_bình toàn_cầu , sự tan chảy của băng và tuyết trên phạm_vi rộng_lớn và sự dâng lên của mực nước_biển trung_bình toàn_cầu :
  
-an(BW) -> an(IW) 
+từng(BW) -> từng(IW) 
 
 =====================
 
-Theo Bộ_trưởng Bộ Lao_động - Thương_binh - Xã_hội Nguyễn_Thị_Kim_Ngân , tính tới giữa năm 2008 đã có tới 13 triệu người , tức 1/6 dân_số bị ảnh_hưởng trầm_trọng bởi tình_trạng giá_cả leo_thang ( Tin KT , TTXVN 5 / 6 / 2008 ) .
-Theo Bộ_trưởng Bộ_Lao_động - Thương_binh - Xã_hội Nguyễn_Thị_Kim_Ngân , tính tới giữa năm 2008 đã có tới 13 triệu người , tức_1/6 dân_số bị ảnh_hưởng trầm_trọng bởi tình_trạng giá_cả leo_thang ( Tin_KT , TTXVN 5 / 6 / 2008 ) .
- 
-Lao(BW) -> Lao(IW) 
-1/6(BW) -> 1/6(IW) 
-KT(BW) -> KT(IW) 
-
-=====================
-
-Đây là liệu_pháp mang tính tổng_thể và quan_trọng nhất , vì đó chính là khâu đột_phá để khắc_phục tình_trạng có tăng_trưởng mà không có phát_triển , tức_là tăng_trưởng do tăng đầu_tư mà không tạo ra sản_phẩm hàng_hoá và dịch_vụ tương_ứng .
-Đây là liệu_pháp mang tính tổng_thể và quan_trọng nhất , vì đó chính là khâu_đột_phá để khắc_phục tình_trạng có tăng_trưởng mà không có phát_triển , tức_là tăng_trưởng do tăng đầu_tư mà không tạo ra sản_phẩm hàng_hoá và dịch_vụ tương_ứng .
- 
-đột(BW) -> đột(IW) 
-
-=====================
-
-Mặc_dù biết rất rõ chúng_ta đang gặp nhiều khó_khăn rất lớn , nhưng các cấp chính_sách của ta hiện_nay dường_như chưa sẵn_sàng chấp_nhận sự “ thoái_lui ” tạm_thời này , vì mức tăng_trưởng cao một_chục năm trước 2007 quả_thực là một thành_tích mà chúng_ta đã phải phấn_đấu nhiều năm mới đạt được , nay phải cắt bớt đi là rất đau và rất đáng tiếc .
-Mặc_dù biết rất rõ chúng_ta đang gặp nhiều khó_khăn rất lớn , nhưng các cấp chính_sách của ta hiện_nay dường_như chưa sẵn_sàng chấp_nhận sự “ thoái_lui ” tạm_thời này , vì mức tăng_trưởng cao một chục năm trước 2007 quả_thực_là một thành_tích mà chúng_ta đã phải phấn_đấu nhiều năm mới đạt được , nay phải cắt bớt đi là rất đau và rất đáng tiếc .
- 
-là(BW) -> là(IW) 
-
-=====================
-
-Vì lạm_phát cao và kéo_dài không_những triệt_tiêu tăng_trưởng , mà nguy_hiểm hơn , nó còn là tác_nhân chính bơm căng , xé rách và cuối_cùng làm nổ tung cái “ bong_bóng kinh_tế ” hiện đang ngày_càng phồng to , gây tác_hại nhiều mặt về kinh_tế - xã_hội không_chỉ trong ngắn_hạn , mà cả trung và dài_hạn .
-Vì lạm_phát cao và kéo_dài không_những triệt_tiêu tăng_trưởng , mà nguy_hiểm hơn , nó còn là tác_nhân_chính bơm căng , xé rách và cuối_cùng làm nổ_tung cái “ bong_bóng kinh_tế ” hiện đang ngày_càng phồng to , gây tác_hại nhiều mặt về kinh_tế - xã_hội không_chỉ trong ngắn_hạn , mà_cả trung và dài_hạn .
- 
-chính(BW) -> chính(IW) 
-tung(BW) -> tung(IW) 
-cả(BW) -> cả(IW) 
-
-=====================
-
-6 . Chủ_động phòng_ngừa suy_giảm kinh_tế .
-6 . Chủ_động_phòng_ngừa suy_giảm kinh_tế .
- 
-phòng(BW) -> phòng(IW) 
-
-=====================
-
-Đây là một giải_pháp cần_thiết để ứng_phó với tình_hình mới có một_số dấu_hiệu giảm_phát đang hình_thành ở trong và ngoài nước , nhưng không vì_thế mà vội bỏ ưu_tiên chống lạm_phát để chuyển sang tập_trung cho chống suy_giảm kinh_tế như một_số ý_kiến mới bắt_đầu đề_xuất từ tháng 11 năm 2008 .
-Đây là một giải_pháp cần_thiết để ứng_phó với tình_hình mới có một_số dấu_hiệu giảm_phát đang hình_thành ở trong và ngoài nước , nhưng không vì_thế mà vội bỏ ưu_tiên chống lạm_phát để chuyển sang tập_trung cho chống suy_giảm kinh_tế như một_số ý_kiến mới bắt_đầu_đề_xuất từ tháng 11 năm 2008 .
- 
-đề(BW) -> đề(IW) 
-
-=====================
-
-Ngoài 2 quần_đảo xa bờ nêu trên , biển Việt_Nam còn có tới khoảng 3.000 hòn đảo gần bờ .
-Ngoài 2 quần_đảo xa bờ nêu trên , biển Việt_Nam còn có tới khoảng 3.000 hòn_đảo gần bờ .
- 
-đảo(BW) -> đảo(IW) 
-
-=====================
-
-Các nước trong khu_vực Biển_Đông đang làm hết sức mình để gìn_giữ và bảo_vệ về mọi mặt đối_với nó với mục_tiêu đạt được là hoà_bình và phát_triển .
-Các nước trong khu_vực Biển_Đông đang làm hết_sức mình để gìn_giữ và bảo_vệ về mọi mặt đối_với nó với mục_tiêu đạt được là hoà_bình và phát_triển .
- 
-sức(BW) -> sức(IW) 
-
-=====================
-
-1 . Lãnh_hải của nước Cộng_hoà_xã_hội_chủ_nghĩa_Việt_Nam rộng 12 hải_lí , ở phía ngoài đường_cơ_sở nối_liền các điểm nhô ra nhất của bờ biển và các điểm ngoài cùng của các đảo ven bờ của Việt_Nam .
-1 . Lãnh_hải của nước Cộng_hoà_xã_hội_chủ_nghĩa Việt_Nam rộng 12 hải_lí , ở phía ngoài đường cơ_sở nối_liền các điểm nhô ra nhất của bờ biển và các điểm ngoài_cùng của các đảo ven bờ của Việt_Nam .
- 
-cùng(BW) -> cùng(IW) 
-
-=====================
-
-2 . Vùng tiếp_giáp lãnh_hải của nước Cộng_hoà_xã_hội_chủ_nghĩa_Việt_Nam là vùng_biển tiếp liền phía ngoài lãnh_hải Việt_Nam có chiều rộng là 12 hải_lí hợp với lãnh_hải Việt_Nam thành một vùng_biển rộng 24 hải_lí kể từ đường_cơ_sở dùng để tính chiều rộng lãnh_hải của Việt_Nam .
-2 . Vùng tiếp_giáp lãnh_hải của nước Cộng_hoà_xã_hội_chủ_nghĩa Việt_Nam là vùng_biển tiếp_liền phía ngoài lãnh_hải Việt_Nam có chiều rộng là 12 hải_lí hợp với lãnh_hải Việt_Nam thành một vùng_biển rộng 24 hải_lí kể từ đường_cơ_sở dùng để tính chiều rộng lãnh_hải của Việt_Nam .
- 
-liền(BW) -> liền(IW) 
-
-=====================
-
-3 . Vùng đặc_quyền kinh_tế của nước Cộng_hoà Cộng_hoà_xã_hội_chủ_nghĩa_Việt_Nam tiếp liền lãnh_hải Việt_Nam và hợp với lãnh_hải Việt_Nam thành một vùng_biển rộng 200 hải_lí kể từ đường_cơ_sở dùng để tính chiều rộng lãnh_hải Việt_Nam .
-3 . Vùng đặc_quyền kinh_tế của nước Cộng_hoà_Cộng_hoà_xã_hội_chủ_nghĩa Việt_Nam tiếp_liền lãnh_hải Việt_Nam và hợp với lãnh_hải Việt_Nam thành một vùng_biển rộng 200 hải_lí kể từ đường_cơ_sở dùng để tính chiều rộng lãnh_hải Việt_Nam .
- 
-Cộng(BW) -> Cộng(IW) 
-liền(BW) -> liền(IW) 
-
-=====================
-
-4 . Thềm_lục_địa của nước Cộng_hoà_xã_hội_chủ_nghĩa_Việt_Nam bao_gồm đáy biển và lòng đất dưới đáy biển thuộc phần kéo dài tự_nhiên của lục_địa Việt_Nam mở_rộng ra ngoài lãnh_hải Việt_Nam cho đến bờ ngoài của rìa lục_địa .
-4 . Thềm_lục_địa của nước Cộng_hoà_xã_hội_chủ_nghĩa_Việt_Nam bao_gồm đáy biển và lòng đất dưới đáy biển thuộc phần kéo_dài tự_nhiên của lục_địa Việt_Nam mở_rộng ra ngoài lãnh_hải Việt_Nam cho đến bờ ngoài của rìa lục_địa .
- 
-dài(BW) -> dài(IW) 
-
-=====================
-
-Nước Cộng_hoà_xã_hội_chủ_nghĩa_Việt_Nam có chủ_quyền hoàn_toàn về mặt thăm_dò , khai_thác , bảo_vệ và quản_lí tất_cả các tài_nguyên thiên_nhiên ở thềm_lục_địa Việt_Nam bao_gồm tài_nguyên khoáng_sản , tài_nguyên không sinh_vật và tài_nguyên sinh_vật thuộc loại định_cư ở thềm_lục_địa Việt_Nam .
-Nước Cộng_hoà_xã_hội_chủ_nghĩa Việt_Nam có chủ_quyền hoàn_toàn về mặt thăm_dò , khai_thác , bảo_vệ và quản_lí tất_cả các tài_nguyên thiên_nhiên ở thềm_lục_địa Việt_Nam bao_gồm tài_nguyên khoáng_sản , tài_nguyên không sinh_vật và tài_nguyên_sinh_vật thuộc loại định_cư ở thềm_lục_địa Việt_Nam .
- 
-sinh(BW) -> sinh(IW) 
-
-=====================
-
-Ngoài_ra , ta cũng mở diễn_đàn trao_đổi về vấn_đề chủ_quyền hai quần_đảo với Philippin ( 1995 ) , Trung_Quốc ( 1995 ) và Malaysia , tham_gia ký_kết các văn_kiện mang tính_chất khu_vực về Biển_Đông , triển_khai một_số dự_án hợp_tác song_phương và đa_phương với các nước liên_quan , trong đó có dự_án nghiên_cứu khoa_học biển Việt_Nam - Philippin ( JOMSRE ) .
-Ngoài_ra , ta cũng mở diễn_đàn trao_đổi về vấn_đề chủ_quyền hai quần_đảo với Philippin ( 1995 ) , Trung_Quốc ( 1995 ) và Malaysia , tham_gia ký_kết các văn_kiện mang tính_chất khu_vực về Biển_Đông , triển_khai một_số dự_án hợp_tác song_phương và đa_phương với các nước liên_quan , trong đó có dự_án nghiên_cứu khoa_học_biển Việt_Nam - Philippin ( JOMSRE ) .
- 
-biển(BW) -> biển(IW) 
-
-=====================
-
-Theo các kết_quả điều_tra cho thấy , Biển_Đông có nguồn tài_nguyên thiên_nhiên rất phong_phú và đa_dạng bao_gồm cả tài_nguyên sinh_vật và tài_nguyên không sinh_vật , tài_nguyên trong khối nước , trên đáy và trong lòng đất dưới đáy biển .
-Theo các kết_quả điều_tra cho thấy , Biển_Đông có nguồn tài_nguyên thiên_nhiên rất phong_phú và đa_dạng bao_gồm cả tài_nguyên_sinh_vật và tài_nguyên không sinh_vật , tài_nguyên trong khối nước , trên đáy và trong lòng đất dưới đáy biển .
- 
-sinh(BW) -> sinh(IW) 
-
-=====================
-
-3 . 1 . Tài_nguyên sinh_vật ( Living_Resources )
-3 . 1 . Tài_nguyên_sinh_vật ( Living_Resources )
- 
-sinh(BW) -> sinh(IW) 
-
-=====================
-
-Trong các vùng_biển và thềm_lục_địa nước ta đã xác_định được nhiều bể trầm_tích có triển_vọng dầu_khí , trong đó các bể Cửu_Long và Nam_Côn_Sơn được đánh_giá là có triển_vọng dầu_khí và điều_kiện khai_thác thuận_lợi nhất , với tổng trữ_lượng ước_tính khoảng 10 tỉ tấn dầu quy_đổi .
-Trong các vùng_biển và thềm_lục_địa nước ta đã xác_định được nhiều bể trầm_tích có triển_vọng dầu_khí , trong đó các bể_Cửu_Long và Nam_Côn_Sơn được đánh_giá là có triển_vọng dầu_khí và điều_kiện khai_thác thuận_lợi nhất , với tổng trữ_lượng ước_tính khoảng 10 tỉ tấn dầu quy_đổi .
- 
-Cửu(BW) -> Cửu(IW) 
-
-=====================
-
-Trên sườn lục_địa - chân lục_địa và đáy biển sâu còn có tiềm_năng các kết hạch sắt - mangan , bùn đa kim rất đáng_kể mà đến nay chưa_thể xác_định được trữ_lượng .
-Trên sườn lục_địa - chân lục_địa và đáy biển sâu còn có tiềm_năng các kết_hạch sắt - mangan , bùn đa kim rất đáng_kể mà đến nay chưa thể xác_định được trữ_lượng .
- 
-hạch(BW) -> hạch(IW) 
-
-=====================
-
-Trên bờ biển của nước ta lại có nhiều mũi đá nhô ra sát biển tạo nên các “ hoành sơn thiên_nhiên tráng_lệ ” , như Đèo_Ngang , đèo Hải_Vân , Đèo_Cả .
-Trên bờ biển của nước ta lại có nhiều mũi đá nhô ra sát biển tạo nên các “ hoành_sơn thiên_nhiên tráng_lệ ” , như Đèo_Ngang , đèo Hải_Vân , Đèo_Cả .
- 
-sơn(BW) -> sơn(IW) 
-
-=====================
-
-Các vách đá hùng_vĩ ở mũi Đá_Vách , mũi Đại_Lãnh , đèo Hải_Vân , “ gành đá đĩa ” phát_triển trên đá bazan ở Phú_Yên .
-Các vách_đá hùng_vĩ ở mũi Đá_Vách , mũi Đại_Lãnh , đèo Hải_Vân , “ gành đá đĩa ” phát_triển trên đá bazan ở Phú_Yên .
- 
-đá(BW) -> đá(IW) 
-
-=====================
-
-Vùng_biển nước ta có trên 4000 hòn đảo lớn_nhỏ trong đó vùng_biển đông_bắc có trên 3.000 đảo , bắc Trung_Bộ trên 40 đảo , còn lại ở vùng_biển Nam_Trung_Bộ , vùng_biển Tây_Nam và hai quần_đảo Hoàng_Sa và Trường_Sa .
-Vùng_biển nước ta có trên 4000 hòn_đảo lớn nhỏ trong đó vùng_biển đông_bắc có trên 3.000 đảo , bắc Trung_Bộ trên 40 đảo , còn lại ở vùng_biển Nam_Trung_Bộ , vùng_biển Tây_Nam và hai quần_đảo Hoàng_Sa và Trường_Sa .
- 
-đảo(BW) -> đảo(IW) 
-
-=====================
-
-Từ huyền_thoại về Lạc_Long_Quân và Âu_Cơ cho đến hình thuyền và cá được đưa lên mặt Trống_đồng Đông_Sơn đã thể_hiện phương_châm đó khi chưa hình_thành Nhà_nước Phong_kiến Độc_lập tự_chủ của người Việt cổ_đại ( trước thế_kỷ thứ X ) .
-Từ huyền_thoại về Lạc_Long_Quân và Âu_Cơ cho đến hình thuyền và cá được đưa lên_mặt Trống_đồng Đông_Sơn đã thể_hiện phương_châm đó khi chưa hình_thành Nhà_nước Phong_kiến Độc_lập tự_chủ của người Việt cổ_đại ( trước thế_kỷ thứ X ) .
- 
-mặt(BW) -> mặt(IW) 
-
-=====================
-
-Trong thời_kì cổ_đại với hình_thức săn_bắt và hái_lượm , người Việt cổ đã sử_dụng một_số loại tài_nguyên biển trong cuộc_sống của mình mà dấu_ấn còn được ghi lại trong các di_chỉ khảo_cổ Cái_Bèo - Hạ_Long ( Quảng_Ninh ) , Hoa_Lộc ( Thanh_Hoá ) , Quỳnh_Văn ( Nghệ_An ) , Bàu_Tró ( Quảng_Bình ) , Bàu_Dũ ( Quảng_Nam ) , Sa_Huỳnh ( Quảng_Ngãi ) , v.v.
-Trong thời_kì cổ_đại với hình_thức săn_bắt và hái_lượm , người Việt_cổ đã sử_dụng một_số loại tài_nguyên biển trong cuộc_sống của mình mà dấu_ấn còn được ghi lại trong các di_chỉ khảo_cổ Cái_Bèo - Hạ_Long ( Quảng_Ninh ) , Hoa_Lộc ( Thanh_Hoá ) , Quỳnh_Văn ( Nghệ_An ) , Bàu_Tró ( Quảng_Bình ) , Bàu_Dũ ( Quảng_Nam ) , Sa_Huỳnh ( Quảng_Ngãi ) , v.v.
- 
-cổ(BW) -> cổ(IW) 
-
-=====================
-
-Muộn hơn là một_số hình_thức sử_dụng biển trong cuộc_sống như lợi_dụng thuỷ_triều để trồng lúa hay giao_thông thương_mại với các nước trong khu_vực và thế_giới cho đến Ba_Tư ở Địa_Trung_Hải thông_qua một_số cảng như Vân_Đồn ( với việc tìm thấy tiền đồng cổ của Trung_Quốc từ thời Đường đến Tống , Ốc_Eo ( từ đầu Công_nguyên đến thế_kỷ VIII ) .
-Muộn hơn là một_số hình_thức sử_dụng biển trong cuộc_sống như lợi_dụng thuỷ_triều để trồng lúa hay giao_thông_thương_mại với các nước trong khu_vực và thế_giới cho đến Ba_Tư ở Địa_Trung_Hải thông_qua một_số cảng như Vân_Đồn ( với việc tìm thấy tiền_đồng cổ của Trung_Quốc từ thời Đường đến Tống , Ốc_Eo ( từ_đầu Công_nguyên đến thế_kỷ VIII ) .
- 
-thương(BW) -> thương(IW) 
-đồng(BW) -> đồng(IW) 
-đầu(BW) -> đầu(IW) 
-
-=====================
-
-Việc sử_dụng thuỷ_triều để đánh quân Nam_Hán trên sông Bạch_Đằng của Ngô_Quyền vào năm 938 đã kết_thúc một khoảng thời_gian dài trong lịch_sử Việt_Nam là đỉnh_cao của việc sử_dụng tài_nguyên của biển của dân_tộc ta trong thời_kì chưa có nhà_nước phong_kiến độc_lập tự_chủ .
-Việc sử_dụng thuỷ_triều để đánh_quân Nam Hán trên sông Bạch_Đằng của Ngô_Quyền vào năm 938 đã kết_thúc một khoảng thời_gian dài trong lịch_sử Việt_Nam là đỉnh_cao của việc sử_dụng tài_nguyên của biển của dân_tộc ta trong thời_kì chưa có nhà_nước phong_kiến độc_lập tự_chủ .
- 
-quân(BW) -> quân(IW) 
-
-=====================
-
-Về kinh_tế - xã_hội , bắt_đầu_từ Triều_Lý , phát_triển kinh_tế biển gắn với thương_mại rất được chú_ý với một thời hưng_thịnh của thương_cảng Vân_Đồn ( Quảng_Ninh ) .
-Về kinh_tế - xã_hội , bắt_đầu_từ Triều_Lý , phát_triển kinh_tế biển gắn với thương_mại rất được chú_ý với một_thời hưng_thịnh của thương_cảng Vân_Đồn ( Quảng_Ninh ) .
+- Theo Tổ_chức_Khí_tượng_thế_giới ( WMO ), nhiệt_độ trung_bình năm 2007 cao hơn trung_bình thời_kì 1961 - 1990 0,41 °C .
+- Theo Tổ_chức Khí_tượng thế_giới ( WMO ), nhiệt_độ trung_bình năm 2007 cao hơn trung_bình_thời_kì 1961 - 1990 0,41 °C .
  
 thời(BW) -> thời(IW) 
 
 =====================
 
-Để quản_lí tốt hơn hải_phận của mình , Nhà_Trần đã chia miền ven biển Đại_Việt thành 2 khu_vực là Hải_Đông ( từ Cửa_Đáy đến Khâm-Liêm ) và Hải_Tây ( chạy dọc theo bờ biển Thanh - Nghệ - Tĩnh trở vào ) .
-Để quản_lí tốt hơn hải_phận của mình , Nhà_Trần đã chia miền ven biển Đại_Việt thành 2 khu_vực là Hải_Đông ( từ Cửa_Đáy đến Khâm-Liêm ) và Hải_Tây ( chạy dọc theo bờ biển Thanh - Nghệ - Tĩnh trở_vào ) .
+Chính sự tan băng ở Greenland , Bắc_cực và Nam_cực đã làm cho mực nước_biển tăng nhanh hơn trong thời_kì 1993 - 2003 .
+Chính_sự tan băng ở Greenland , Bắc_cực và Nam_cực đã làm cho mực nước_biển tăng nhanh hơn trong thời_kì 1993 - 2003 .
  
-vào(BW) -> vào(IW) 
+sự(BW) -> sự(IW) 
 
 =====================
 
-Nhằm củng_cố chủ_quyền trên biển cũng như trên đất_liền của nước Đại_Việt , Nho_sinh Đỗ_Bá đã soạn bộ sách “ Toản tập Thiên_Nam tứ chí lộ đồ_thư ” với 4 quyển vẽ hình_thế núi_sông , đường bờ biển và các đảo ( trong đó có các quần_đảo Hoàng_Sa và Trường_Sa ) cho đến địa_phận tỉnh Phú_Yên hiện_nay ( bắc Đèo_Cả với núi Đá_Bia ) .
-Nhằm củng_cố chủ_quyền trên biển cũng như trên đất_liền của nước_Đại_Việt , Nho_sinh Đỗ_Bá đã soạn bộ sách “ Toản_tập Thiên_Nam tứ chí lộ_đồ_thư ” với 4 quyển vẽ hình_thế núi_sông , đường bờ biển và các đảo ( trong đó có các quần_đảo Hoàng_Sa và Trường_Sa ) cho đến địa_phận tỉnh Phú_Yên hiện_nay ( bắc Đèo_Cả với núi Đá_Bia ) .
+- Những số_liệu về hàm_lượng khí CO2 trong khí_quyển được xác_định từ các lõi băng được khoan ở Greenland và Nam_cực cho thấy , trong suốt chu_kì băng_hà và gian băng ( khoảng 18 nghìn năm trước ), hàm_lượng khí CO2 trong khí_quyển chỉ khoảng 180 - 200 ppm ( phần triệu ), nghĩa_là chỉ bằng khoảng 70 % so với thời_kì tiền công_nghiệp ( 280 ppm ).
+- Những số_liệu về hàm_lượng khí CO2 trong khí_quyển được xác_định từ các lõi băng được khoan ở Greenland và Nam_cực cho thấy , trong suốt chu_kì băng_hà và gian_băng ( khoảng 18 nghìn năm trước ), hàm_lượng khí CO2 trong khí_quyển chỉ khoảng 180 - 200 ppm ( phần triệu ), nghĩa_là chỉ bằng khoảng 70 % so với thời_kì tiền_công_nghiệp ( 280 ppm ).
  
-Đại(BW) -> Đại(IW) 
-tập(BW) -> tập(IW) 
-đồ(BW) -> đồ(IW) 
+băng(BW) -> băng(IW) 
+công(BW) -> công(IW) 
 
 =====================
 
-Trong khoảng thời_gian kéo_dài gần 40 năm ( trong đó giai_đoạn 1945 - 1954 cả nước thực_hiện cuộc kháng_chiến chống Pháp và giai_đoạn 1954 - 1975 đất_nước bị chia_cắt thành 2 miền ) , kinh_tế biển của Việt_Nam đã có những tiến_bộ nhất_định , song vẫn trong tình_trạng lạc_hậu trong nền kinh_tế tự_túc tự_cấp với phương_thức “ săn_bắn - hái_lượm ” bằng các dụng_cụ thô_sơ và nhỏ_bé chỉ thực_hiện được ở gần bờ .
-Trong khoảng thời_gian kéo_dài gần 40 năm ( trong đó giai_đoạn 1945 - 1954 cả nước thực_hiện cuộc kháng_chiến chống Pháp và giai_đoạn 1954 - 1975 đất_nước bị chia cắt thành 2 miền ) , kinh_tế biển của Việt_Nam đã có những tiến_bộ nhất_định , song vẫn trong tình_trạng lạc_hậu trong nền kinh_tế_tự_túc tự_cấp với phương_thức “ săn_bắn - hái_lượm ” bằng các dụng_cụ thô_sơ và nhỏ_bé chỉ thực_hiện được ở gần bờ .
+Từ khoảng năm 1800 , hàm_lượng khí CO2 bắt_đầu tăng lên , vượt con_số 300 ppm và đạt 379 ppm vào năm 2005 , nghĩa_là tăng khoảng 31 % so với thời_kì tiền công_nghiệp , vượt xa mức khí CO2 tự_nhiên trong khoảng 650 nghìn năm qua .
+Từ khoảng năm 1800 , hàm_lượng khí CO2 bắt_đầu tăng lên , vượt con_số 300 ppm và đạt 379 ppm vào năm 2005 , nghĩa_là tăng khoảng 31 % so với thời_kì tiền_công_nghiệp , vượt xa mức khí CO2 tự_nhiên trong khoảng 650 nghìn năm qua .
  
-tự(BW) -> tự(IW) 
+công(BW) -> công(IW) 
 
 =====================
 
-Tuy_nhiên , theo số_liệu thống_kê giai_đoạn 1981 - 2005 , hiệu_suất khai_thác liên_tục bị giảm : từ 0,92 tấn / CV / năm ( 1981 ) còn 0,34 tấn / CV / năm ( 2005 ) ; năng_suất lao_động bình_quân đầu người cũng giảm mạnh từ 3,24 tấn / lao_động / năm ( 1990 ) xuống còn 1,65 tấn / lao_động / năm .
-Tuy_nhiên , theo số_liệu thống_kê giai_đoạn 1981 - 2005 , hiệu_suất khai_thác liên_tục bị giảm : từ 0,92 tấn / CV / năm ( 1981 ) còn 0,34 tấn / CV / năm ( 2005 ) ; năng_suất lao_động bình_quân đầu_người cũng giảm mạnh từ 3,24 tấn / lao_động / năm ( 1990 ) xuống còn 1,65 tấn / lao_động / năm .
+- Hàm_lượng các khí nhà_kính khác như khí mêtan ( CH4 ), ôxit_nitơ ( N2O ) cũng tăng lần_lượt từ 715 ppb ( phần tỉ ) và 270 ppb trong thời_kì tiền công_nghiệp lên 1774 ppb ( 151 % ) và 319 ppb ( 17 % ) vào năm 2005 .
+- Hàm_lượng các khí nhà_kính khác như khí mêtan ( CH4 ), ôxit nitơ ( N2O ) cũng tăng lần_lượt từ 715 ppb ( phần tỉ ) và 270 ppb trong thời_kì tiền_công_nghiệp lên 1774 ppb ( 151 % ) và 319 ppb ( 17 % ) vào năm 2005 .
+ 
+công(BW) -> công(IW) 
+
+=====================
+
+- Các nhân_tố khác , trong đó có các sol khí ( bụi , cacbon hữu_cơ , sulphat , nitrat ...) gây ra hiệu_ứng âm ( lạnh đi ) với lượng bức_xạ cưỡng_bức tổng_cộng trực_tiếp là - 0,5 w / m² và gián_tiếp qua phản_xạ của mây là - 0,7 w / m² ; thay_đổi sử_dụng đất làm thay_đổi suất phản_xạ bề_mặt , tạo ra lượng bức_xạ cưỡng_bức tổng_cộng được xác_định bằng - 0,02 w / m² ; trái_lại , sự tăng khí ôzôn trong tầng đối_lưu do sản_xuất và phát thải các hoá_chất và sự thay_đổi trong hoạt_động của mặt_trời trong thời_kì từ 1750 đến nay được xác_định là tạo ra hiệu_ứng dương với tổng_lượng bức_xạ cưỡng_bức lần_lượt là 0,35 w / m² và 0,12 w / m² .
+- Các nhân_tố khác , trong đó có các sol khí ( bụi , cacbon_hữu_cơ , sulphat , nitrat ...) gây ra hiệu_ứng âm ( lạnh đi ) với lượng bức_xạ cưỡng_bức tổng_cộng trực_tiếp là - 0,5 w / m² và gián_tiếp qua phản_xạ của mây là - 0,7 w / m² ; thay_đổi sử_dụng đất làm thay_đổi suất phản_xạ bề_mặt , tạo ra lượng bức_xạ cưỡng_bức tổng_cộng được xác_định bằng - 0,02 w / m² ; trái_lại , sự tăng khí ôzôn trong tầng đối_lưu do sản_xuất và phát thải các hoá_chất và sự thay_đổi trong hoạt_động của mặt_trời trong thời_kì từ 1750 đến nay được xác_định là tạo ra hiệu_ứng dương với tổng_lượng bức_xạ cưỡng_bức lần_lượt là 0,35 w / m² và 0,12 w / m² .
+ 
+hữu(BW) -> hữu(IW) 
+
+=====================
+
+Vì_thế , trên thực_tế , sự tăng lên của nhiệt_độ trung_bình toàn_cầu quan_trắc được trong thời_gian qua đã bị triệt_tiêu một phần , nói cách khác , sự tăng lên của riêng hàm_lượng khí nhà_kính nhân_tạo trong khí_quyển làm trái_đất nóng lên nhiều hơn so với những gì đã quan_trắc được , và điều đó càng khẳng_định sự biến_đổi khí_hậu hiện_nay là do các hoạt_động của con_người mà không_thể được giải_thích là do các quá_trình tự_nhiên .
+Vì_thế , trên thực_tế , sự tăng lên của nhiệt_độ trung_bình toàn_cầu quan_trắc được trong thời_gian qua đã bị triệt_tiêu một phần , nói cách khác , sự tăng lên của riêng hàm_lượng khí nhà_kính nhân_tạo trong khí_quyển làm trái_đất nóng lên nhiều hơn so với những gì đã quan_trắc được , và điều đó càng khẳng_định sự_biến_đổi khí_hậu hiện_nay là do các hoạt_động của con_người mà không_thể được giải_thích là do các quá_trình tự_nhiên .
+ 
+biến(BW) -> biến(IW) 
+
+=====================
+
+- Theo Báo_cáo đánh_giá lần thứ 4 của Ban Liên Chính_phủ về Biến_đổi khí_hậu , đến cuối thế_kỉ 21 , hàm_lượng khí CO2 trong khí_quyển sẽ đạt 540 - 970 ppm theo các kịch_bản khác nhau về phát thải khí nhà_kính , nghĩa_là tăng ít_nhất gấp đôi so với thời_kì tiền công_nghiệp , và như vậy , nhiệt_độ trung_bình toàn_cầu sẽ tăng lên tương_ứng là 2,0 - 4,5 ºC , mực nước_biển trung_bình sẽ tăng lên từ 0,18 đến 0,59 m so với cuối thế_kỉ 20 .
+- Theo Báo_cáo đánh_giá lần thứ 4 của Ban Liên_Chính_phủ về Biến_đổi khí_hậu , đến cuối thế_kỉ 21 , hàm_lượng khí CO2 trong khí_quyển sẽ đạt 540 - 970 ppm theo các kịch_bản khác nhau về phát thải khí nhà_kính , nghĩa_là tăng ít_nhất gấp đôi so với thời_kì tiền_công_nghiệp , và như_vậy , nhiệt_độ trung_bình toàn_cầu sẽ tăng lên tương_ứng là 2,0 - 4,5 ºC , mực nước_biển trung_bình sẽ tăng lên từ 0,18 đến 0,59 m so với cuối thế_kỉ 20 .
+ 
+Chính(BW) -> Chính(IW) 
+công(BW) -> công(IW) 
+vậy(BW) -> vậy(IW) 
+
+=====================
+
+- Năm 1990 , Việt_Nam phát thải 21,4 triệu tấn CO2 ( không kể các khí nhà_kính khác ).
+- Năm 1990 , Việt_Nam phát thải 21,4 triệu tấn CO2 ( không_kể các khí nhà_kính khác ).
+ 
+kể(BW) -> kể(IW) 
+
+=====================
+
+Dựa theo phương_pháp của CSIRO ( Cơ_quan_Nghiên_cứu_Khoa_học_và_Công_nghiệp_Australia ) áp_dụng cho khu_vực Châu_Á - Thái_Bình_Dương , các kịch_bản BĐKH về nhiệt_độ cho thấy , trừ vùng Tây_Bắc , Việt_Bắc và Tây_Nguyên , các vùng khác đều có nhiệt_độ tăng ứng với các năm 2050 và 2070 lần_lượt là 1,1 và 1,5 ºC .
+Dựa theo phương_pháp của CSIRO ( Cơ_quan Nghiên_cứu Khoa_học và Công_nghiệp_Australia ) áp_dụng cho khu_vực Châu_Á - Thái_Bình_Dương , các kịch_bản BĐKH về nhiệt_độ cho thấy , trừ vùng Tây_Bắc , Việt_Bắc và Tây_Nguyên , các vùng khác đều có nhiệt_độ tăng ứng với các năm 2050 và 2070 lần_lượt_là 1,1 và 1,5 ºC .
+ 
+là(BW) -> là(IW) 
+
+=====================
+
+BĐKH với những điều_kiện khí_hậu khắc_nghiệt hơn như hạn_hán , cháy rừng , lũ_lụt v.v... sẽ làm cho các loài có khả_năng bị giảm nhiều hơn nữa .
+BĐKH với những điều_kiện khí_hậu khắc_nghiệt hơn như hạn_hán , cháy rừng , lũ_lụt v.v... sẽ làm cho các loài có khả_năng bị giảm nhiều hơn_nữa .
+ 
+nữa(BW) -> nữa(IW) 
+
+=====================
+
+Nhiều loài có vú và loài chim sẽ bị giảm do điều_kiện sinh_sống không thích_hợp , nguồn dinh_dưỡng bị giảm .
+Nhiều loài có_vú và loài chim sẽ bị giảm do điều_kiện sinh_sống không thích_hợp , nguồn dinh_dưỡng bị giảm .
+ 
+vú(BW) -> vú(IW) 
+
+=====================
+
+Nhiệt_độ nước_biển tăng 1 - 2 ºC có_thể gây tai_hoạ với các rạn san_hô vốn sống trong điều_kiện rất chặt_chẽ về nhiệt_độ .
+Nhiệt_độ nước biển tăng 1 - 2 ºC có_thể gây tai_hoạ với các rạn san_hô vốn_sống trong điều_kiện rất chặt_chẽ về nhiệt_độ .
+ 
+sống(BW) -> sống(IW) 
+
+=====================
+
+Những thay_đổi dù ít của môi_trường như nhiệt_độ , độ mặn , hướng và tốc_độ gió , dòng_chảy hoặc thay_đổi của các vùng nước trồi đều có_thể dẫn đến những thay_đổi đáng_kể của số_lượng cá , làm thay_đổi các bãi_cá .
+Những thay_đổi dù ít của môi_trường như nhiệt_độ , độ_mặn , hướng và tốc_độ gió , dòng_chảy hoặc thay_đổi của các vùng nước trồi đều có_thể dẫn đến những thay_đổi đáng_kể của số_lượng cá , làm thay_đổi các bãi_cá .
+ 
+mặn(BW) -> mặn(IW) 
+
+=====================
+
+Mỗi khi gió_mùa Tây_Nam đến muộn hoặc kết_thúc sớm đều gây ra hạn_hán cho nông_nghiệp và dẫn đến những hậu_quả rất tồi_tệ cho hàng triệu người vốn chỉ sống bằng nghề nông .
+Mỗi khi gió_mùa Tây_Nam đến muộn hoặc kết_thúc sớm đều gây ra hạn_hán cho nông_nghiệp và dẫn đến những hậu_quả rất tồi_tệ cho hàng triệu người vốn chỉ_sống bằng nghề nông .
+ 
+sống(BW) -> sống(IW) 
+
+=====================
+
+Đường bờ biển được ổn_định từ lâu nhờ các cấu_trúc địa_hình như đá cát hoặc các hệ_sinh_thái như rừng ngập_mặn .
+Đường bờ biển được ổn_định từ lâu nhờ các cấu_trúc địa_hình_như đá cát hoặc các hệ_sinh_thái như rừng ngập_mặn .
+ 
+như(BW) -> như(IW) 
+
+=====================
+
+Ngoài những ảnh_hưởng của BĐKH đến nông_nghiệp đã được trình_bày ở trên , có ảnh_hưởng quan_trọng đến thời_vụ , tốc_độ sinh_trưởng , phát_triển của cây_trồng là chế_độ nhiệt , mưa , ẩm .
+Ngoài những ảnh_hưởng của BĐKH đến nông_nghiệp đã được trình_bày ở trên , có ảnh_hưởng quan_trọng đến thời_vụ , tốc_độ_sinh_trưởng , phát_triển của cây_trồng là chế_độ nhiệt , mưa , ẩm .
+ 
+sinh(BW) -> sinh(IW) 
+
+=====================
+
+Những thiên_tai khí_tượng như bão , lốc tố , mưa lớn gây ngập_úng , hạn_hán ... tuy chỉ tồn_tại trong một thời_gian ngắn , song lại có_thể gây thảm_hoạ đối_với không_chỉ sinh_trưởng , năng_suất cây_trồng mà cả sản_phẩm sau thu_hoạch .
+Những thiên_tai khí_tượng như bão , lốc tố , mưa lớn gây ngập_úng , hạn_hán ... tuy chỉ tồn_tại trong một thời_gian ngắn , song lại có_thể gây thảm_hoạ đối_với không chỉ sinh_trưởng , năng_suất cây_trồng mà_cả sản_phẩm sau thu_hoạch .
+ 
+cả(BW) -> cả(IW) 
+
+=====================
+
+Ảnh_hưởng tới hoạt_động của các dàn khoan được xây_dựng trên biển , hệ_thống dẫn khí và các nhà_máy điện chạy khí được xây_dựng ven biển , làm tăng chi_phí bảo_dưỡng , duy_tu , vận_hành máy_móc , phương_tiện ,...
+Ảnh_hưởng tới hoạt_động của các dàn khoan được xây_dựng trên biển , hệ_thống dẫn khí và các nhà_máy_điện chạy khí được xây_dựng ven biển , làm tăng chi_phí bảo_dưỡng , duy_tu , vận_hành máy_móc , phương_tiện ,...
+ 
+điện(BW) -> điện(IW) 
+
+=====================
+
+Tuyến đường_sắt Bắc - Nam và các tuyến giao_thông nằm sát biển và trên biển cũng bị ảnh_hưởng .
+Tuyến đường_sắt Bắc - Nam và các tuyến giao_thông nằm_sát biển và trên biển cũng bị ảnh_hưởng .
+ 
+sát(BW) -> sát(IW) 
+
+=====================
+
+Tăng chi_phí thông gió , làm mát hầm_lò khai_thác và làm giảm hiệu_suất , sản_lượng của các nhà_máy điện .
+Tăng chi_phí thông gió , làm mát hầm_lò khai_thác và làm giảm hiệu_suất , sản_lượng của các nhà_máy_điện .
+ 
+điện(BW) -> điện(IW) 
+
+=====================
+
+Nhiệt_độ tăng kèm theo lượng bốc_hơi tăng kết_hợp với sự thất_thường trong chế_độ mưa dẫn đến thay_đổi lượng nước dự_trữ và lưu_lượng vào của các hồ thuỷ_điện .
+Nhiệt_độ tăng kèm theo lượng bốc_hơi tăng kết_hợp với sự thất_thường trong chế_độ mưa dẫn đến thay_đổi lượng nước dự_trữ và lưu_lượng vào của các hồ_thuỷ_điện .
+ 
+thuỷ(BW) -> thuỷ(IW) 
+
+=====================
+
+BĐKH theo hướng gia_tăng cường_độ mưa và lượng mưa_bão cũng ảnh_hưởng trực_tiếp đến ngành năng_lượng , trước_hết đến hệ_thống dàn khoan ngoài khơi , hệ_thống vận_chuyển dầu và khí vào bờ , hệ_thống truyền_tải và phân_phối điện .
+BĐKH theo hướng gia_tăng cường_độ mưa và lượng mưa_bão cũng ảnh_hưởng trực_tiếp đến ngành năng_lượng , trước_hết đến hệ_thống dàn khoan ngoài_khơi , hệ_thống vận_chuyển dầu và khí vào bờ , hệ_thống truyền_tải và phân_phối điện .
+ 
+khơi(BW) -> khơi(IW) 
+
+=====================
+
+Môi_trường sống mà gần_gũi nhất là môi_trường ở , môi_trường lao_động sản_xuất ... sẽ chịu tác_động không nhỏ của biến_đổi khí_hậu toàn_cầu .
+Môi_trường sống mà gần_gũi nhất_là môi_trường ở , môi_trường lao_động sản_xuất ... sẽ chịu tác_động không nhỏ của biến_đổi khí_hậu toàn_cầu .
+ 
+là(BW) -> là(IW) 
+
+=====================
+
+Hơn_nữa , Việt_Nam là nước đang phát_triển , chưa có nghĩa_vụ phải giảm_phát thải các chất_khí gây hiệu_ứng_nhà_kính theo Công_ước_Khung của Liên_Hiệp_Quốc về BĐKH , tổng_lượng phát thải và lượng phát thải tính theo đầu người còn rất nhỏ_bé so với các nước đang phát_triển khác , yêu_cầu phát_triển để xoá_bỏ đói_nghèo , nâng cao đời_sống nhân_dân , đưa nước ta ra khỏi tình_trạng kém phát_triển là mục_tiêu hàng_đầu .
+Hơn_nữa , Việt_Nam là nước đang phát_triển , chưa có nghĩa_vụ phải giảm_phát thải các chất_khí gây hiệu_ứng nhà_kính theo Công_ước_Khung của Liên_Hiệp_Quốc về BĐKH , tổng_lượng phát thải và lượng phát thải tính theo đầu_người còn rất nhỏ_bé so với các nước đang phát_triển khác , yêu_cầu phát_triển để xoá_bỏ đói_nghèo , nâng cao đời_sống nhân_dân , đưa nước ta ra khỏi tình_trạng kém phát_triển là mục_tiêu hàng_đầu .
  
 người(BW) -> người(IW) 
 
 =====================
 
-Ngành công_nghiệp khai_thác dầu_khí phát_triển kéo_theo sự phát_triển của một_số ngành khác như công_nghiệp hoá_dầu , giao_thông vận_tải , thương_mại trong nước và khu_vực .
-Ngành công_nghiệp khai_thác dầu_khí phát_triển kéo_theo sự phát_triển của một_số ngành khác như công_nghiệp_hoá_dầu , giao_thông vận_tải , thương_mại trong nước và khu_vực .
+1 / Các hoạt_động thích_ứng với BĐKH phải được lồng_ghép có hiệu_quả vào các chiến_lược , chính_sách , kế_hoạch phát_triển kinh_tế , xã_hội ở tất_cả các quy_mô ngành , lĩnh_vực , địa_phương , nhằm mục_đích bảo_đảm tính hiệu_quả và bền_vững của các kế_hoạch phát_triển , ngăn_ngừa những rủi_ro có_thể xảy ra đối_với các kế_hoạch do BĐKH hoặc những hậu_quả chưa lường hết được về môi_trường và xã_hội do việc thực_hiện các kế_hoạch đó gây ra .
+1 / Các hoạt_động thích_ứng với BĐKH phải được lồng_ghép có hiệu_quả vào các chiến_lược , chính_sách , kế_hoạch phát_triển kinh_tế , xã_hội ở tất_cả các quy_mô ngành , lĩnh_vực , địa_phương , nhằm mục_đích bảo_đảm tính hiệu_quả và bền_vững của các kế_hoạch phát_triển , ngăn_ngừa những rủi_ro có_thể xảy ra đối_với các kế_hoạch do BĐKH hoặc những hậu_quả chưa lường hết được về môi_trường và xã_hội do_việc thực_hiện các kế_hoạch đó gây ra .
  
-hoá(BW) -> hoá(IW) 
+việc(BW) -> việc(IW) 
 
 =====================
 
-Đó là việc sử_dụng các nguồn tài_nguyên biển chưa hợp_lí ( quy_hoạch sử_dụng đất_đai chưa phù_hợp , khai_thác nguồn lợi hải_sản quá mức , v.v. ) dẫn đến sự suy_thoái môi_trường ( ô_nhiễm và các tai_biến thiên_nhiên ) tự_nhiên của biển và vùng_đất ven biển , đặc_biệt là đối_với vùng duyên_hải ( đới bờ biển ) .
-Đó là việc sử_dụng các nguồn tài_nguyên biển chưa hợp_lí ( quy_hoạch sử_dụng đất_đai chưa phù_hợp , khai_thác nguồn lợi hải_sản quá mức , v.v. ) dẫn đến sự suy_thoái môi_trường ( ô_nhiễm và các tai_biến_thiên_nhiên ) tự_nhiên của biển và vùng_đất ven biển , đặc_biệt là đối_với vùng duyên_hải ( đới bờ biển ) .
+cũng làm giảm phát_thải khí nhà_kính .
+cũng làm giảm_phát thải khí nhà_kính .
  
-thiên(BW) -> thiên(IW) 
+phát(BW) -> phát(IW) 
 
 =====================
 
-Các vùng_biển của Việt_Nam có nguồn tài_nguyên thiên_nhiên phong_phú cả trong khối nước , trên đáy biển và trong lòng đất dưới đáy biển bao_gồm tài_nguyên sinh_vật ( động , thực_vật ) , tài_nguyên khoáng_sản ( dầu_mỏ , khí_thiên_nhiên , than , các loại sa_khoáng , vật_liệu xây_dựng , ... ) , tài_nguyên năng_lượng ( thuỷ_triều , sóng , gió , mặt_trời , v.v. ) và các tài_nguyên đặc_biệt khác ( không_gian mặt_biển , địa_hình bờ và đảo , các cảnh_quan , v.v. ) .
-Các vùng_biển của Việt_Nam có nguồn tài_nguyên thiên_nhiên phong_phú cả trong khối nước , trên đáy biển và trong lòng đất dưới đáy biển bao_gồm tài_nguyên_sinh_vật ( động , thực_vật ) , tài_nguyên khoáng_sản ( dầu_mỏ , khí thiên_nhiên , than , các loại sa_khoáng , vật_liệu xây_dựng , ... ) , tài_nguyên năng_lượng ( thuỷ_triều , sóng , gió , mặt_trời , v.v. ) và các tài_nguyên đặc_biệt khác ( không_gian mặt biển , địa_hình bờ và đảo , các cảnh_quan , v.v. ) .
+- Nơi cư_trú và sức_khoẻ cộng_đồng , nhất_là cộng_đồng dân_cư ven biển , ven sông , nông_thôn , miền núi , các khu nhà tạm trong đô_thị .
+- Nơi cư_trú và sức_khoẻ cộng_đồng , nhất_là cộng_đồng_dân_cư ven biển , ven sông , nông_thôn , miền núi , các khu_nhà_tạm trong đô_thị .
+ 
+dân(BW) -> dân(IW) 
+nhà(BW) -> nhà(IW) 
+tạm(BW) -> tạm(IW) 
+
+=====================
+
+Điều đó không_những làm chậm_trễ việc triển_khai các hoạt_động ứng_phó với BĐKH , bỏ lỡ nhiều cơ_hội hợp_tác , thu_hút đầu_tư và tài_trợ của các nước và các tổ_chức quốc_tế , mà_còn có_thể dẫn đến tình_trạng manh_mún , kém hiệu_quả ( thông_qua các quỹ đa_phương và các dự_án đơn_lẻ với chi_phí và chuyên_gia quá cao ) , thậm_chí thích_ứng không tốt dẫn đến những hậu_quả xấu về xã_hội và môi_trường do thiếu định_hướng chiến_lược chung của nhà_nước , thiếu hiểu_biết và tầm nhìn hạn_chế .
+Điều đó không_những làm chậm_trễ việc triển_khai các hoạt_động ứng_phó với BĐKH , bỏ_lỡ nhiều cơ_hội hợp_tác , thu_hút đầu_tư và tài_trợ của các nước và các tổ_chức quốc_tế , mà_còn có_thể dẫn đến tình_trạng manh_mún , kém hiệu_quả ( thông_qua các quỹ đa_phương và các dự_án đơn_lẻ với chi_phí và chuyên_gia quá cao ) , thậm_chí thích_ứng không tốt dẫn đến những hậu_quả xấu về xã_hội và môi_trường do thiếu định_hướng chiến_lược chung của nhà_nước , thiếu hiểu_biết và tầm nhìn hạn_chế .
+ 
+lỡ(BW) -> lỡ(IW) 
+
+=====================
+
+3 / Cùng chung hoàn_cảnh như vấn_đề về nhận_thức và thể_chế , chính_sách , hệ_thống quản_lí nhà_nước và các cơ_quan , tổ_chức điều_hành từ trung_ương đến địa_phương và các ngành liên_quan đến vấn_đề BĐKH , ứng_phó với BĐKH và những tác_động tiềm_tàng của chúng , cả hiện_nay và lâu_dài , còn rất hạn_chế , nếu không muốn nói là phân_tán , yếu_kém .
+3 / Cùng_chung hoàn_cảnh như vấn_đề về nhận_thức và thể_chế , chính_sách , hệ_thống quản_lí nhà_nước và các cơ_quan , tổ_chức điều_hành từ trung_ương đến địa_phương và các ngành liên_quan đến vấn_đề BĐKH , ứng_phó với BĐKH và những tác_động tiềm_tàng của chúng , cả hiện_nay và lâu_dài , còn rất hạn_chế , nếu không muốn nói là phân_tán , yếu_kém .
+ 
+chung(BW) -> chung(IW) 
+
+=====================
+
+Việt_Nam có diện_tích tự_nhiên là 329.240 km² trải dài gần 15 vĩ_độ ( từ 8 ° 30 ' 22 ° 22 ° 22 ' vĩ_độ Bắc ) và hơn 7 kinh_độ ( từ 102 ° 10 ' - 109 ° 20 ' kinh_độ Đông ) từ Trung_Quốc ở phía Bắc đến vịnh Thái_Lan ở phía Nam .
+Việt_Nam có diện_tích tự_nhiên là 329.240 km² trải dài gần 15 vĩ_độ ( từ 8 ° 30 ' 22 ° 22 ° 22 ' vĩ_độ Bắc ) và hơn 7 kinh_độ ( từ 102 ° 10 ' - 109 ° 20 ' kinh_độ_Đông ) từ Trung_Quốc ở phía Bắc đến vịnh Thái_Lan ở phía Nam .
+ 
+Đông(BW) -> Đông(IW) 
+
+=====================
+
+Việt_Nam có bờ biển dài với hàng trăm hòn đảo lớn_nhỏ nằm rải_rác dọc bờ biển và có một_số quần_đảo ngoài khơi là Quần_đảo Trường_Sa ở phía Nam và quần_đảo Hoàng_Sa ở phía Bắc Biển_Đông .
+Việt_Nam có bờ biển dài với hàng trăm hòn_đảo lớn nhỏ nằm rải_rác dọc bờ biển và có một_số quần_đảo ngoài khơi là Quần_đảo Trường_Sa ở phía Nam và quần_đảo Hoàng_Sa ở phía Bắc Biển_Đông .
+ 
+đảo(BW) -> đảo(IW) 
+
+=====================
+
+Ngoài_ra , ở miền Nam còn có hòn đảo lớn gần bờ đó là đảo Phú_Quốc và Côn_Đảo nằm cách bờ biển phía Nam khoảng 100 Km ( Chính_phủ Việt_Nam , 1994 ) .
+Ngoài_ra , ở miền Nam còn có hòn_đảo lớn gần bờ đó là đảo Phú_Quốc và Côn_Đảo nằm cách bờ biển phía Nam khoảng 100 Km ( Chính_phủ Việt_Nam , 1994 ) .
+ 
+đảo(BW) -> đảo(IW) 
+
+=====================
+
+Về mặt sinh_địa , Việt_Nam là giao_điểm của vùng Ấn_Độ , Nam Trung_Hoa và Malaysia .
+Về mặt sinh_địa , Việt_Nam là giao_điểm của vùng Ấn_Độ , Nam_Trung_Hoa_và Malaysia .
+ 
+Trung(BW) -> Trung(IW) 
+và(BW) -> và(IW) 
+
+=====================
+
+Trên cơ_sở các tài_liệu đã công_bố của các nhà sinh_vật Việt_Nam đã được tổng_hợp trên cơ_sở những tài_liệu đáng tin_cậy của một_số các nhóm chính trên toàn_bộ lãnh_thổ Việt_Nam có tới trên 28.682 loài động thực_vật bao_gồm :
+Trên cơ_sở các tài_liệu đã công_bố của các nhà_sinh_vật Việt_Nam đã được tổng_hợp trên cơ_sở những tài_liệu đáng tin_cậy của một_số các nhóm chính trên toàn_bộ lãnh_thổ Việt_Nam có tới trên 28.682 loài động thực_vật bao_gồm :
  
 sinh(BW) -> sinh(IW) 
+
+=====================
+
+Về thực_vật : hệ thực_vật Việt_Nam có 19.357 loài trong đó 600 loài Nấm , 368 loài Tảo_lam ( Cyanophyta ) , 2176 loài Tảo , 793 loài rêu ( Bryophyta ) , 2 loài khuyết lá thông ( Psilotopơhyta ) , 57 loài thông_đất ( Lycopodiophyta ) , 2 loài thân_đốt ( Cỏ_tháp_bút - Equisetophyta ) , 691 loài dương_xỉ ( Polypodiophyta ) , 69 loài Hạt_trần ( Pinophyta ) và 13.000 loài Hạt_kín ( Magnoliophyta ) .
+Về thực_vật : hệ thực_vật Việt_Nam có 19.357 loài trong đó 600 loài Nấm , 368 loài Tảo_lam ( Cyanophyta ) , 2176 loài Tảo , 793 loài rêu ( Bryophyta ) , 2 loài khuyết_lá thông ( Psilotopơhyta ) , 57 loài thông_đất ( Lycopodiophyta ) , 2 loài thân đốt ( Cỏ tháp_bút - Equisetophyta ) , 691 loài dương_xỉ ( Polypodiophyta ) , 69 loài Hạt_trần ( Pinophyta ) và 13.000 loài Hạt_kín ( Magnoliophyta ) .
+ 
+lá(BW) -> lá(IW) 
+
+=====================
+
+Rừng núi cao .
+Rừng_núi cao .
+ 
+núi(BW) -> núi(IW) 
+
+=====================
+
+Rừng sú vẹt .
+Rừng sú_vẹt .
+ 
+vẹt(BW) -> vẹt(IW) 
+
+=====================
+
+Rừng tre nứa trên núi thấp .
+Rừng tre_nứa trên núi thấp .
+ 
+nứa(BW) -> nứa(IW) 
+
+=====================
+
+- Nhóm quần_hệ rừng thưa lá rộng ( Rừng thứ_sinh thường xanh ) .
+- Nhóm quần_hệ rừng thưa lá_rộng ( Rừng thứ_sinh thường xanh ) .
+ 
+rộng(BW) -> rộng(IW) 
+
+=====================
+
+- Nhóm quần_hệ rừng lá kim .
+- Nhóm quần_hệ rừng lá_kim .
+ 
+kim(BW) -> kim(IW) 
+
+=====================
+
+3 . 2 . 2 . Phân_lớp quần_hệ rừng lá rộng rụng lá vùng núi và vùng đất thấp .
+3 . 2 . 2 . Phân_lớp quần_hệ rừng lá rộng rụng lá vùng núi và vùng_đất thấp .
+ 
+đất(BW) -> đất(IW) 
+
+=====================
+
+- Nhóm quần_hệ trảng thường xanh cây lá rộng .
+- Nhóm quần_hệ trảng thường xanh cây lá_rộng .
+ 
+rộng(BW) -> rộng(IW) 
+
+=====================
+
+Trảng cây_bụi trên đất bồi_tụ .
+Trảng cây_bụi trên đất_bồi_tụ .
+ 
+bồi(BW) -> bồi(IW) 
+
+=====================
+
+3 . 4 . 1 . Phân lớp quần_hệ trảng cỏ dạng lúa cao > 1 m .
+3 . 4 . 1 . Phân_lớp quần_hệ trảng cỏ dạng lúa cao > 1 m .
+ 
+lớp(BW) -> lớp(IW) 
+
+=====================
+
+Nguyên_nhân chính dẫn tới việc khai_thác gỗ trái_phép xảy ra nghiêm_trọng và khó kiểm_soát vì nhu_cầu dùng gỗ trong nước và việc xuất_khẩu ngày_càng tăng trong khi trữ_lượng gỗ ngày_càng giảm .
+Nguyên_nhân_chính dẫn tới việc khai_thác gỗ trái_phép xảy ra nghiêm_trọng và khó kiểm_soát vì nhu_cầu dùng gỗ trong nước và việc xuất_khẩu ngày_càng tăng trong khi trữ_lượng gỗ ngày_càng giảm .
+ 
+chính(BW) -> chính(IW) 
+
+=====================
+
+Khai_thác củi và đốt than để bán còn là nghề kiếm sống khó thay_thế của nhiều người ở vùng núi .
+Khai_thác củi và đốt than để bán còn là nghề kiếm_sống khó thay_thế của nhiều người ở vùng núi .
+ 
+sống(BW) -> sống(IW) 
+
+=====================
+
+Rừng Việt_Nam có khoảng 2.300 loài thực_vật thuộc nhóm lâm_sản ngoài gỗ như song , mây , lá nón , tre , nứa , và cây_thuốc ( khoảng 1000 loài ) nhiều loài khác được khai_thác để làm vật_liệu xây_dựng , hàng thủ_công mĩ_nghệ , làm thuốc và xuất_khẩu .
+Rừng Việt_Nam có khoảng 2.300 loài thực_vật thuộc nhóm lâm_sản ngoài gỗ như song , mây , lá nón , tre , nứa , và cây_thuốc ( khoảng 1000 loài ) nhiều loài khác được khai_thác để làm vật_liệu xây_dựng , hàng thủ_công mĩ_nghệ , làm_thuốc và xuất_khẩu .
+ 
+thuốc(BW) -> thuốc(IW) 
+
+=====================
+
+Đặc_biệt khu hệ động_vật hoang_dã có khoảng 70 loài thuộc các lớp chim , thú , bò_sát bị khai_thác thường_xuyên để sử_dụng cho các mục_đích khác nhau .
+Đặc_biệt khu_hệ động_vật hoang_dã có khoảng 70 loài thuộc các lớp chim , thú , bò_sát bị khai_thác thường_xuyên để sử_dụng cho các mục_đích khác nhau .
+ 
+hệ(BW) -> hệ(IW) 
+
+=====================
+
+Trai ngọc đã biến_mất khỏi nhiều vùng_biển phía Bắc .
+Trai_ngọc đã biến mất khỏi nhiều vùng_biển phía Bắc .
+ 
+ngọc(BW) -> ngọc(IW) 
+
+=====================
+
+Chẳng_hạn như việc xây_dựng các tuyến đường giao_thông xuyên qua các vùng rừng rộng_lớn , các tuyến đường_bộ đi qua vùng Đồng_Tháp_Mười , nối Hà_Tiên với Cà_Mau , đường dây_điện 500 Kv ... , ít_nhiều đã làm mất đi tính liên_tục của vùng phân_bố các loài , gây nhiễu_loạn và làm suy_thoái môi_trường tự_nhiên , chỉ tính riêng các hồ_chứa_nước được xây_dựng hàng năm đã làm mất đi khoảng hàng ngàn ha rừng .
+Chẳng_hạn như việc xây_dựng các tuyến đường giao_thông xuyên qua các vùng rừng rộng_lớn , các tuyến đường_bộ đi qua vùng Đồng_Tháp_Mười , nối Hà_Tiên với Cà_Mau , đường_dây_điện 500_Kv ... , ít_nhiều đã làm mất đi tính liên_tục của vùng phân_bố các loài , gây nhiễu_loạn và làm suy_thoái môi_trường tự_nhiên , chỉ tính riêng các hồ chứa_nước được xây_dựng hàng năm đã làm mất đi khoảng hàng ngàn ha rừng .
+ 
+dây(BW) -> dây(IW) 
+Kv(BW) -> Kv(IW) 
+
+=====================
+
+Các vùng rừng bị cháy nhiều nhất là ở đồng_bằng sông_Cửu_Long Đông_Nam_Bộ , Tây_Nguyên , và Tây_Bắc .
+Các vùng rừng bị cháy nhiều nhất_là ở đồng_bằng sông_Cửu_Long Đông_Nam_Bộ , Tây_Nguyên , và Tây_Bắc .
+ 
+là(BW) -> là(IW) 
+
+=====================
+
+Bên_cạnh các đợt di_dân theo kế_hoạch , đã có nhiều đợt di_dân tự_do từ các tỉnh phía Bắc và Bắc Trung_Bộ vào các tỉnh phía nam , nhất_là vào các tỉnh cực nam Trung_Bộ và Tây_Nguyên đã gây ảnh_hưởng rõ_rệt đến ĐDSH ở các vùng này , kể_cả các khu bảo_tồn ( KBT ) tại đó .
+Bên_cạnh các đợt di_dân theo kế_hoạch , đã có nhiều đợt di_dân tự_do từ các tỉnh phía Bắc và Bắc Trung_Bộ vào các tỉnh phía nam , nhất_là vào các tỉnh cực_nam Trung_Bộ và Tây_Nguyên đã gây ảnh_hưởng rõ_rệt đến ĐDSH ở các vùng này , kể_cả các khu bảo_tồn ( KBT ) tại đó .
+ 
+nam(BW) -> nam(IW) 
+
+=====================
+
+Việt_Nam được xếp loại là một trong những nước nghèo trên thế_giới với gần 80 % dân_số sống ở nông_thôn , hoạt_động kinh_tế chủ_yếu là nông_lâm ngư_nghiệp , đời_sống kinh_tế còn nhiều khó_khăn .
+Việt_Nam được xếp_loại là một trong những nước nghèo trên thế_giới với gần 80 % dân_số sống ở nông_thôn , hoạt_động kinh_tế_chủ_yếu là nông_lâm ngư_nghiệp , đời_sống kinh_tế còn nhiều khó_khăn .
+ 
+loại(BW) -> loại(IW) 
+chủ(BW) -> chủ(IW) 
+
+=====================
+
+Cùng với những chính_sách phát_triển kinh_tế trong cơ_chế_thị_trường , thì những tác_động của nó gây nên suy_thoái ĐDSH là không_thể tránh khỏi .
+Cùng_với những chính_sách phát_triển kinh_tế trong cơ_chế thị_trường , thì những tác_động của nó gây nên suy_thoái ĐDSH là không_thể tránh khỏi .
+ 
+với(BW) -> với(IW) 
+
+=====================
+
+Hiệu_lực thi_hành pháp_luật về môi_trường .
+Hiệu_lực thi_hành_pháp_luật về môi_trường .
+ 
+pháp(BW) -> pháp(IW) 
+
+=====================
+
+Bóng_đá là môn thể_thao đồng_đội được chơi theo các quy_tắc đề ra trong Luật_bóng_đá ( tiếng Anh : Laws_of_the_Game ) .
+Bóng_đá là môn thể_thao đồng_đội được chơi theo các quy_tắc đề_ra trong Luật bóng_đá ( tiếng Anh : Laws of the Game ) .
+ 
+ra(BW) -> ra(IW) 
+
+=====================
+
+Dựa vào các quy_tắc cơ_bản này , cầu_thủ thường dùng chân để thực_hiện các động_tác kĩ_thuật như rê bóng , lừa bóng , chuyền bóng cho đồng_đội , sút bóng , với mục_đích chính là tìm cách đưa bóng vào khung_thành đối_phương và ngăn không cho đối_phương đưa bóng vào khung_thành đội nhà .
+Dựa vào các quy_tắc cơ_bản này , cầu_thủ thường_dùng chân để thực_hiện các động_tác kĩ_thuật như rê bóng , lừa bóng , chuyền_bóng cho đồng_đội , sút bóng , với mục_đích chính là tìm cách đưa bóng vào khung_thành đối_phương và ngăn không cho đối_phương đưa bóng vào khung_thành_đội nhà .
+ 
+dùng(BW) -> dùng(IW) 
+bóng(BW) -> bóng(IW) 
+đội(BW) -> đội(IW) 
+
+=====================
+
+Điều_khiển trận đấu là tổ trọng_tài bao_gồm một trọng_tài chính và hai trọng_tài biên , trọng_tài chính sử_dụng một chiếc còi cùng hai loại thẻ , thẻ_vàng và thẻ_đỏ , và có trách_nhiệm bắt_đầu , kết_thúc hoặc tạm dừng trận đấu .
+Điều_khiển trận đấu là tổ trọng_tài bao_gồm một trọng_tài_chính và hai trọng_tài biên , trọng_tài chính_sử_dụng một chiếc còi cùng hai loại thẻ , thẻ_vàng và thẻ_đỏ , và có trách_nhiệm bắt_đầu , kết_thúc hoặc tạm dừng trận đấu .
+ 
+chính(BW) -> chính(IW) 
+sử(BW) -> sử(IW) 
+
+=====================
+
+Trang_phục thi_đấu của các cầu_thủ thường bao_gồm áo_phông , quần_soóc , tất cao đến đầu_gối , giày và bảo_vệ ống_đồng .
+Trang_phục thi_đấu của các cầu_thủ_thường bao_gồm áo_phông , quần_soóc , tất cao đến đầu_gối , giày và bảo_vệ ống đồng .
+ 
+thường(BW) -> thường(IW) 
+
+=====================
+
+Điều_khiển trận đấu là tổ trọng_tài bao_gồm 1 trọng_tài chính và 2 trọng_tài biên , những người này có toàn_quyền điều_khiển trận đấu theo các quy_định của Luật_bóng_đá , quyết_định của trọng_tài chính dù đúng hoặc sai cũng thường là quyết_định cuối_cùng và không_thể đảo_ngược .
+Điều_khiển trận đấu là tổ trọng_tài bao_gồm 1 trọng_tài_chính và 2 trọng_tài biên , những người này có toàn_quyền điều_khiển trận đấu theo các quy_định của Luật bóng_đá , quyết_định của trọng_tài_chính dù đúng hoặc sai cũng thường là quyết_định cuối_cùng và không_thể đảo_ngược .
+ 
+chính(BW) -> chính(IW) 
+chính(BW) -> chính(IW) 
+
+=====================
+
+Ngoài ba trọng_tài làm_việc trên sân còn có một trọng_tài thứ tư ( còn gọi_là trọng_tài bàn ) quản_lí việc thay người , theo_dõi thời_gian bù giờ và thay_thế trọng_tài trên sân trong trường_hợp cần_thiết .
+Ngoài ba trọng_tài làm_việc trên sân còn có một trọng_tài thứ tư ( còn gọi_là trọng_tài_bàn ) quản_lí việc thay người , theo_dõi thời_gian bù giờ và thay_thế trọng_tài trên sân trong trường_hợp cần_thiết .
+ 
+bàn(BW) -> bàn(IW) 
+
+=====================
+
+Một sân bóng_đá tiêu_chuẩn cho các trận đấu quốc_tế có dạng hình_chữ_nhật với chiều dài nằm trong khoảng từ 100 đến 110 mét , chiều rộng từ 64 đến 75 m .
+Một sân_bóng_đá tiêu_chuẩn cho các trận đấu quốc_tế có dạng hình chữ_nhật với chiều dài nằm trong khoảng từ 100 đến 110 mét , chiều rộng từ 64 đến 75 m .
+ 
+bóng(BW) -> bóng(IW) 
+
+=====================
+
+Còn đối_với các trận đấu ở cấp_độ thấp hơn , sân bóng có_thể có chiều dài nằm trong khoảng từ 90 đến 120 m ( 100 - 130 yd ) và rộng từ 45 đến 90 m ( 50 - 100 yd ) .
+Còn đối_với các trận đấu ở cấp_độ thấp hơn , sân_bóng có_thể có chiều dài nằm trong khoảng từ 90 đến 120 m ( 100 - 130 yd ) và rộng từ 45 đến 90 m ( 50 - 100 yd ) .
+ 
+bóng(BW) -> bóng(IW) 
+
+=====================
+
+Hai cạnh dài của sân bóng được gọi_là hai đường biên dọc , hai cạnh còn lại là đường biên ngang .
+Hai cạnh dài của sân_bóng được gọi_là hai đường biên dọc , hai cạnh còn lại là đường biên ngang .
+ 
+bóng(BW) -> bóng(IW) 
+
+=====================
+
+Ở giữa khu cấm_địa , cách khung_thành 11 m là điểm đá phạt_đền , nơi các cầu_thủ thực_hiện các cú sút phạt_đền ( do cầu_thủ đối_phương phạm lỗi trong khu_vực cấm_địa ) .
+Ở giữa khu cấm_địa , cách khung_thành 11 m là điểm đá phạt_đền , nơi các cầu_thủ thực_hiện các cú_sút phạt_đền ( do cầu_thủ đối_phương phạm lỗi trong khu_vực cấm_địa ) .
+ 
+sút(BW) -> sút(IW) 
+
+=====================
+
+Người có quyền bắt_đầu và kết_thúc trận đấu là trọng_tài chính .
+Người có quyền bắt_đầu và kết_thúc trận đấu là trọng_tài_chính .
+ 
+chính(BW) -> chính(IW) 
+
+=====================
+
+Trong các tình_huống phải dừng bóng hoặc bóng ra ngoài sân , trọng_tài sẽ tính thêm giờ , thời_gian chết này sẽ được chơi bù vào cuối mỗi hiệp đấu ( được gọi_là những phút bù giờ ) , số phút bù giờ ít hoặc nhiều đều hoàn_toàn phụ_thuộc vào quyết_định của trọng_tài chính , kể_cả trường_hợp nó khác_biệt so với số phút bù giờ do trọng_tài thứ tư công_bố trên bảng điện_tử .
+Trong các tình_huống phải dừng bóng hoặc bóng ra ngoài sân , trọng_tài sẽ tính thêm giờ , thời_gian chết này sẽ được chơi bù vào cuối mỗi hiệp đấu ( được gọi_là những phút bù giờ ) , số phút bù giờ ít hoặc nhiều đều hoàn_toàn phụ_thuộc vào quyết_định của trọng_tài_chính , kể_cả trường_hợp nó khác_biệt so với số phút bù giờ do trọng_tài thứ tư công_bố trên bảng điện_tử .
+ 
+chính(BW) -> chính(IW) 
+
+=====================
+
+Quy_định về thời_gian đá bù xuất_hiện sau trận đấu năm 1891 giữa Stoke và Aston_Villa , khi chỉ còn 2 phút là hết giờ , trong tình_thế bị dẫn trước 1 - 0 , đội Stoke bất_ngờ được hưởng một quả phạt_đền , thủ_môn Villa đã đối_phó bằng cách đá bóng ra khỏi sân và đến khi bóng trở_lại sân thì đồng_hồ đã điểm 90 phút và Stoke thua trận .
+Quy_định về thời_gian đá bù xuất_hiện sau trận đấu năm 1891 giữa Stoke và Aston_Villa , khi chỉ còn 2 phút là hết giờ , trong tình_thế bị dẫn trước 1 - 0 , đội Stoke bất_ngờ được hưởng một quả phạt_đền , thủ_môn Villa đã đối_phó bằng cách đá bóng ra khỏi sân và đến khi bóng trở_lại sân thì đồng_hồ đã điểm 90 phút và Stoke thua_trận .
+ 
+trận(BW) -> trận(IW) 
+
+=====================
+
+Trong các giải thi_đấu liên_đoàn , một trận đấu có_thể kết_thúc với tỉ_số hoà , tuy_nhiên trong các trận đá loại trực_tiếp ( như ở các giải Cúp hoặc các trận playoff ) , bắt_buộc phải xác_định được một đội giành chiến_thắng .
+Trong các giải thi_đấu liên_đoàn , một trận đấu có_thể kết_thúc với tỉ_số hoà , tuy_nhiên trong các trận đá loại trực_tiếp ( như ở các giải_Cúp hoặc các trận playoff ) , bắt_buộc phải xác_định được một đội giành chiến_thắng .
+ 
+Cúp(BW) -> Cúp(IW) 
+
+=====================
+
+Nếu hết 2 hiệp phụ mà kết_quả vẫn hoà , hai đội sẽ phải thi đá luân_lưu 11 m ( hai đội thay phiên nhau thực_hiện các quả đá phạt_đền ) để xác_định đội giành chiến_thắng .
+Nếu hết 2 hiệp phụ mà kết_quả vẫn hoà , hai đội sẽ phải thi đá luân_lưu 11 m ( hai đội thay_phiên nhau thực_hiện các quả đá phạt_đền ) để xác_định đội giành chiến_thắng .
+ 
+phiên(BW) -> phiên(IW) 
+
+=====================
+
+Từ quả ném_biên , bàn thắng chỉ được công_nhận khi chạm chân cầu_thủ khác .
+Từ quả ném_biên , bàn thắng_chỉ được công_nhận khi chạm chân cầu_thủ khác .
+ 
+chỉ(BW) -> chỉ(IW) 
+
+=====================
+
+Bàn thắng chỉ được công_nhận khi bóng chạm chân một cầu_thủ khác .
+Bàn thắng_chỉ được công_nhận khi bóng chạm chân một cầu_thủ khác .
+ 
+chỉ(BW) -> chỉ(IW) 
+
+=====================
+
+Cầu_thủ bị phạt 2 thẻ_vàng hoặc một thẻ_đỏ sẽ bị đuổi khỏi sân và không được thay_thế bằng cầu_thủ dự_bị .
+Cầu_thủ bị phạt_2 thẻ_vàng hoặc một thẻ_đỏ sẽ bị đuổi khỏi sân và không được thay_thế bằng cầu_thủ dự_bị .
+ 
+2(BW) -> 2(IW) 
+
+=====================
+
+Tuy_nhiên để chơi bóng chuyên_nghiệp thì các cầu_thủ thường phải tham_gia các câu_lạc_bộ bóng_đá từ khi còn trẻ để được huấn_luyện kĩ_thuật và chiến_thuật cơ_bản của môn bóng_đá .
+Tuy_nhiên để chơi bóng chuyên_nghiệp thì các cầu_thủ_thường phải tham_gia các câu_lạc_bộ bóng_đá từ khi còn trẻ để được huấn_luyện kĩ_thuật và chiến_thuật cơ_bản của môn bóng_đá .
+ 
+thường(BW) -> thường(IW) 
+
+=====================
+
+Bên_cạnh đó , cầu_thủ bóng_đá còn bị đe_doạ bởi các chấn_thương rất dễ xảy ra trong trận đấu hoặc trong lúc tập_luyện , chấn_thương thường xảy ra với họ ở chân , ví_dụ chấn_thương gân khoeo , chấn_thương gót chân và đôi_khi thậm_chí là gãy chân .
+Bên_cạnh đó , cầu_thủ bóng_đá còn bị đe_doạ bởi các chấn_thương rất dễ xảy ra trong trận đấu hoặc trong lúc tập_luyện , chấn_thương thường xảy ra với họ ở chân , ví_dụ chấn_thương gân khoeo , chấn_thương gót_chân và đôi_khi thậm_chí là gãy chân .
+ 
+chân(BW) -> chân(IW) 
+
+=====================
+
+Có_thể kể tới trường_hợp của Đan_Mạch vốn tham_dự Giải_vô_địch_bóng_đá_châu_Âu 1992 với tư_cách đội thay_thế Nam_Tư bị cấm_vận nhưng cuối_cùng lại vượt qua nhiều đội mạnh để trở_thành nhà vô_địch châu_Âu , hay chiến_thắng 3 - 2 tại chung_kết World_Cup 1954 của Tây_Đức trước Hungary , đội trước đó đã thắng họ tới 8 - 3 tại vòng đấu bảng .
+Có_thể kể tới trường_hợp của Đan_Mạch vốn tham_dự Giải vô_địch bóng_đá châu_Âu 1992 với tư_cách đội thay_thế Nam_Tư bị cấm_vận nhưng cuối_cùng lại vượt qua nhiều đội mạnh để trở_thành nhà vô_địch_châu_Âu , hay chiến_thắng 3 - 2 tại chung_kết World_Cup 1954 của Tây_Đức trước Hungary , đội trước đó đã thắng họ tới 8 - 3 tại vòng đấu bảng .
+ 
+châu(BW) -> châu(IW) 
+
+=====================
+
+Có_thể tóm_tắt sự bất_ngờ trong môn bóng_đá bằng câu nói nổi_tiếng của huấn_luyện_viên Sepp_Herberger của đội_tuyển Đức vô_địch World_Cup 1954 : “ Trái bóng thì tròn còn trận đấu kéo_dài tới 90 phút ” .
+Có_thể tóm_tắt sự bất_ngờ trong môn bóng_đá bằng câu_nói nổi_tiếng của huấn_luyện_viên Sepp_Herberger của đội_tuyển Đức vô_địch World_Cup 1954 : “ Trái bóng thì tròn còn trận đấu kéo_dài tới 90 phút ” .
+ 
+nói(BW) -> nói(IW) 
+
+=====================
+
+Những cầu_thủ bóng_đá hiện_đại đầu_tiên thường là các sinh_viên , sau đó mới đến giới thượng_lưu và công_nhân .
+Những cầu_thủ bóng_đá hiện_đại đầu_tiên_thường là các sinh_viên , sau đó mới đến giới thượng_lưu và công_nhân .
+ 
+thường(BW) -> thường(IW) 
+
+=====================
+
+Ban_đầu họ chỉ là các cầu_thủ nghiệp_dư và lấy bóng_đá như một thú giải_trí .
+Ban_đầu họ chỉ là các cầu_thủ nghiệp_dư và lấy bóng_đá như một_thú giải_trí .
+ 
+thú(BW) -> thú(IW) 
+
+=====================
+
+Một thời_gian dài đầu thế_kỉ 20 , việc chơi bóng một_cách chuyên_nghiệp cho các câu_lạc_bộ của những ông chủ lớn bị coi như hành_động “ đi làm nô_lệ ” vì đồng_lương thấp và điều_kiện thi_đấu tồi , ví_dụ cầu_thủ quốc_tế người Pháp Thadée_Cisowski được nhận lương mỗi tháng 400 franc vào năm 1961 , chỉ nhiều hơn 30 % so với mức lương tối_thiểu của Pháp ( SMIC ) .
+Một thời_gian dài đầu thế_kỉ 20 , việc chơi bóng một_cách chuyên_nghiệp cho các câu_lạc_bộ của những ông chủ lớn bị coi như hành_động “ đi làm nô_lệ ” vì đồng_lương thấp và điều_kiện thi_đấu tồi , ví_dụ cầu_thủ quốc_tế người Pháp Thadée_Cisowski được nhận lương mỗi tháng 400 franc vào năm 1961 , chỉ nhiều hơn 30 % so với mức_lương tối_thiểu của Pháp ( SMIC ) .
+ 
+lương(BW) -> lương(IW) 
+
+=====================
+
+Từ thập_niên 1970 , những “ nô_lệ đá bóng ” bắt_đầu trở_thành “ lính_đánh_thuê ” với điều_kiện kinh_tế cao hơn khi họ có sự tư_vấn của những người hoặc cơ_quan đại_diện .
+Từ thập_niên 1970 , những “ nô_lệ đá_bóng ” bắt_đầu trở_thành “ lính đánh_thuê ” với điều_kiện kinh_tế cao hơn khi họ có sự tư_vấn của những người hoặc cơ_quan đại_diện .
+ 
+bóng(BW) -> bóng(IW) 
+
+=====================
+
+Tuy_nhiên ngay cả mức lương của các ngôi_sao tại các giải bóng_đá lớn vẫn còn thua_kém so với mức lương của các ngôi_sao Công_thức 1 , NBA hoặc quyền_Anh chuyên_nghiệp .
+Tuy_nhiên ngay cả mức_lương của các ngôi_sao tại các giải bóng_đá lớn vẫn còn thua_kém so với mức_lương của các ngôi_sao Công_thức 1 , NBA hoặc quyền_Anh chuyên_nghiệp .
+ 
+lương(BW) -> lương(IW) 
+lương(BW) -> lương(IW) 
+
+=====================
+
+Tại châu_Âu có 2 mùa chuyển_nhượng chính diễn ra vào_khoảng thời_gian giữa hai mùa giải kế_tiếp ( từ khoảng tháng 6 đến tháng 9 hàng năm ) và khoảng thời_gian nghỉ Đông của một mùa giải ( từ tháng 12 năm trước đến tháng 1 năm sau ) .
+Tại châu_Âu có 2 mùa chuyển_nhượng chính diễn ra vào_khoảng thời_gian giữa hai mùa giải kế_tiếp ( từ khoảng tháng 6 đến tháng 9 hàng năm ) và khoảng thời_gian nghỉ_Đông của một mùa giải ( từ tháng 12 năm trước đến tháng 1 năm sau ) .
+ 
+Đông(BW) -> Đông(IW) 
+
+=====================
+
+Lịch_sử loài_người bắt_đầu từ khi con_người ra_đời và xã_hội hình_thành .
+Lịch_sử loài_người bắt_đầu_từ khi con người ra_đời và xã_hội hình_thành .
+ 
+từ(BW) -> từ(IW) 
+
+=====================
+
+Quá_trình từ quan_hệ cộng_đồng nguyên_thuỷ nhỏ hẹp với khoảng 30 - 40 người , sống quây_quần theo quan_hệ ruột_thịt đến quan_hệ ngày_càng mở_rộng với nhiều cộng_đồng khác trên quả_đất trải qua một thời_kì lịch_sử rất lâu_dài .
+Quá_trình từ quan_hệ cộng_đồng nguyên_thuỷ nhỏ_hẹp với khoảng 30 - 40 người , sống quây_quần theo quan_hệ ruột_thịt đến quan_hệ ngày_càng mở_rộng với nhiều cộng_đồng khác trên quả đất trải qua một thời_kì lịch_sử rất lâu_dài .
+ 
+hẹp(BW) -> hẹp(IW) 
+
+=====================
+
+Theo các nhà khảo_cổ_học , trong thời_đại_đồ_đá_mới , quan_hệ của các tộc_người diễn ra trong vòng đường_kính khoảng 70 km ; đến buổi đầu thời cổ_đại , đường_kính này kéo_dài đến 1.000 km , rồi mở_rộng ra các châu thuộc cựu lục_địa .
+Theo các nhà khảo_cổ_học , trong thời_đại đồ_đá_mới , quan_hệ của các tộc_người diễn ra trong vòng đường_kính khoảng 70 km ; đến buổi đầu thời cổ_đại , đường_kính này kéo_dài đến 1.000 km , rồi mở_rộng ra các châu_thuộc cựu lục_địa .
+ 
+thuộc(BW) -> thuộc(IW) 
+
+=====================
+
+Ngay từ lúc mới xuất_hiện , con_người đã có ý_thức về tự_nhiên , về cộng_đồng người và bản_thân ; cho_nên “ Lịch_sử bắt_đầu từ đâu thì quá_trình tư_duy cũng bắt_đầu từ đó ” .
+Ngay từ lúc mới xuất_hiện , con_người đã có ý_thức về tự_nhiên , về cộng_đồng người và bản_thân ; cho_nên “ Lịch_sử bắt_đầu từ đâu thì quá_trình tư_duy cũng bắt_đầu_từ đó ” .
+ 
+từ(BW) -> từ(IW) 
+
+=====================
+
+Tuy_nhiên , trong xã_hội nguyên_thuỷ giáo_dục mới là hiện_tượng xã_hội , được tiến_hành trên hai lĩnh_vực - lao_động sản_xuất và đời_sống cộng_đồng .
+Tuy_nhiên , trong xã_hội_nguyên_thuỷ giáo_dục mới là hiện_tượng xã_hội , được tiến_hành trên hai lĩnh_vực - lao_động_sản_xuất và đời_sống cộng_đồng .
+ 
+nguyên(BW) -> nguyên(IW) 
+sản(BW) -> sản(IW) 
+
+=====================
+
+Lúc bấy_giờ , người_già có nghĩa_vụ truyền lại cho con_cháu những hiểu_biết , kinh_nghiệm về chế_tác công_cụ lao_động , lao_động sản_xuất , về quê_hương , tổ_tiên , quan_hệ trong cộng_đồng .
+Lúc bấy_giờ , người_già có nghĩa_vụ truyền lại cho con_cháu những hiểu_biết , kinh_nghiệm về chế_tác công_cụ lao_động , lao_động_sản_xuất , về quê_hương , tổ_tiên , quan_hệ trong cộng_đồng .
+ 
+sản(BW) -> sản(IW) 
+
+=====================
+
+Những tri_thức như vậy được tích_luỹ , thể_hiện trong những lời khuyên_bảo , răn_dạy thông_qua những câu_chuyện thần_thoại , cổ_tích , truyền_thuyết , ca_dao , tục_ngữ , v.v...
+Những tri_thức như_vậy được tích_luỹ , thể_hiện trong những lời khuyên_bảo , răn dạy thông_qua những câu_chuyện thần_thoại , cổ_tích , truyền_thuyết , ca_dao , tục_ngữ , v.v...
+ 
+vậy(BW) -> vậy(IW) 
+
+=====================
+
+Tuy_vậy , cùng với sự phát_triển những mối quan_hệ giữa các quốc_gia , dân_tộc thì sự trao_đổi về giáo_dục càng_ngày_càng được mở_rộng .
+Tuy_vậy , cùng_với sự phát_triển những mối quan_hệ giữa các quốc_gia , dân_tộc thì sự trao_đổi về giáo_dục càng ngày_càng được mở_rộng .
+ 
+với(BW) -> với(IW) 
+
+=====================
+
+Trong thời Bắc_thuộc , các triều_đại phong_kiến Trung_Quốc đã đưa Nho_học vào nước ta , mở trường dạy_học chữ Hán để truyền_bá “ lễ_nghĩa Trung_Hoa ” cho dân ta , từ cách ăn_mặc , lấy vợ , lấy chồng , làm mũ , giày ...
+Trong thời Bắc_thuộc , các triều_đại_phong_kiến Trung_Quốc đã đưa Nho_học vào nước ta , mở trường dạy_học chữ Hán để truyền_bá “ lễ_nghĩa Trung_Hoa ” cho dân ta , từ cách ăn_mặc , lấy vợ , lấy_chồng , làm mũ , giày ...
+ 
+phong(BW) -> phong(IW) 
+chồng(BW) -> chồng(IW) 
+
+=====================
+
+Vào buổi đầu thời Bắc_thuộc đã có người nước ta sang du_học và đỗ_đạt ở Trung_Quốc , như Lí_Ông_Trọng , Lí_Tiến , Lí_Cầm , Trương_Trọng , Khương_Công_Phụ , Khương_Công_Phục , Tinh_Thiều ( đã bỏ về nước theo Lí_Bôn khởi_nghĩa và giữ chức quan văn của nhà_nước Vạn_Xuân độc_lập ) .
+Vào buổi đầu thời Bắc_thuộc đã có người nước ta sang du_học và đỗ_đạt ở Trung_Quốc , như Lí_Ông_Trọng , Lí_Tiến , Lí_Cầm , Trương_Trọng , Khương_Công_Phụ , Khương_Công_Phục , Tinh_Thiều ( đã bỏ_về nước theo Lí_Bôn khởi_nghĩa và giữ chức quan_văn của nhà_nước Vạn_Xuân độc_lập ) .
+ 
+về(BW) -> về(IW) 
+văn(BW) -> văn(IW) 
+
+=====================
+
+Trên cơ_sở nền văn_hoá , giáo_dục dân_gian cổ_truyền , nhân_dân ta kết_hợp với văn_hoá , giáo_dục Trung_Hoa cổ_đại , để xây_dựng nền giáo_dục chính_thống của mình .
+Trên cơ_sở nền văn_hoá , giáo_dục dân_gian cổ_truyền , nhân_dân ta kết_hợp với văn_hoá , giáo_dục Trung_Hoa_cổ_đại , để xây_dựng nền giáo_dục chính_thống của mình .
+ 
+cổ(BW) -> cổ(IW) 
+
+=====================
+
+Hồ_Quý_Ly , Quang_Trung đã có kế_hoạch , chính_sách xây_dựng chữ Nôm thành chữ_viết chính_thức của dân_tộc và phát_triển nền văn_hoá giáo_dục chữ Nôm .
+Hồ_Quý_Ly , Quang_Trung đã có kế_hoạch , chính_sách xây_dựng chữ Nôm thành chữ_viết chính_thức của dân_tộc và phát_triển nền văn_hoá giáo_dục chữ_Nôm .
+ 
+Nôm(BW) -> Nôm(IW) 
+
+=====================
+
+Giáo_dục thực_dân kiểu cũ của Pháp , kiểu mới của Mĩ dù cố_gắng mấy cũng chỉ đào_tạo được một đội_ngũ ít_ỏi những người phục_vụ cho bộ_máy cai_trị , còn nhiều nhà trí_thức lớn , phần_đông những người có học_vấn từ trình_độ phổ_thông trở_lên đều là những người yêu nước chân_chính , tiến_bộ .
+Giáo_dục thực_dân kiểu cũ của Pháp , kiểu mới của Mĩ dù cố_gắng mấy cũng chỉ đào_tạo được một đội_ngũ ít_ỏi những người phục_vụ cho bộ_máy cai_trị , còn nhiều nhà trí_thức lớn , phần_đông những người có học_vấn từ trình_độ phổ_thông trở_lên đều là những người_yêu nước chân_chính , tiến_bộ .
+ 
+yêu(BW) -> yêu(IW) 
+
+=====================
+
+Âm_mưu , thủ_đoạn của bọn phong_kiến , thực_dân , đế_quốc đối_với nhân_dân Việt_Nam về giáo_dục , cũng như trên mọi mặt khác , về cơ_bản đã thất_bại .
+Âm_mưu , thủ_đoạn của bọn phong_kiến , thực_dân , đế_quốc đối_với nhân_dân Việt_Nam về giáo_dục , cũng như trên mọi mặt_khác , về cơ_bản đã thất_bại .
+ 
+khác(BW) -> khác(IW) 
+
+=====================
+
+Bởi_vì , nhân_dân , phần_đông những người được đào_tạo ở các trường phong_kiến , thực_dân với tinh_thần yêu nước , tự_cường , tự_lập đã đấu_tranh dũng_cảm bảo_vệ Tổ_quốc , bảo_vệ nền văn_hoá , giáo_dục dân_tộc .
+Bởi_vì , nhân_dân , phần_đông những người được đào_tạo ở các trường phong_kiến , thực_dân với tinh_thần yêu_nước , tự_cường , tự_lập đã đấu_tranh dũng_cảm bảo_vệ Tổ_quốc , bảo_vệ nền văn_hoá , giáo_dục dân_tộc .
+ 
+nước(BW) -> nước(IW) 
+
+=====================
+
+Việc xây_dựng nền giáo_dục dân_chủ nhân_dân tiến lên giáo_dục xã_hội_chủ_nghĩa gắn liền với thắng_lợi của cách_mạng Việt_Nam và cũng góp_phần vào thắng_lợi của cách_mạng thế_giới .
+Việc xây_dựng nền giáo_dục dân_chủ_nhân_dân tiến lên giáo_dục xã_hội_chủ_nghĩa gắn liền với thắng_lợi của cách_mạng Việt_Nam và cũng góp_phần vào thắng_lợi của cách_mạng thế_giới .
+ 
+nhân(BW) -> nhân(IW) 
+
+=====================
+
+Trước Hồ_Chí_Minh , nhiều nhà yêu nước Việt_Nam cũng có ý_thức dựa vào nước_ngoài để đấu_tranh giải_phóng dân_tộc , nhưng mới chỉ giới_hạn ở việc cầu_viện , xây_dựng lực_lượng đưa về nước , chứ chưa có ai nghĩ đến , mà cũng chưa_thể nghĩ đến , một sự liên_minh quốc_tế trong cuộc đấu_tranh chống một kẻ_thù chung .
+Trước Hồ_Chí_Minh , nhiều nhà yêu_nước Việt_Nam cũng có ý_thức dựa vào nước_ngoài để đấu_tranh giải_phóng dân_tộc , nhưng mới chỉ giới_hạn ở việc cầu_viện , xây_dựng lực_lượng đưa về nước , chứ chưa có ai nghĩ đến , mà cũng chưa_thể nghĩ đến , một sự liên_minh quốc_tế trong cuộc đấu_tranh chống một kẻ_thù chung .
+ 
+nước(BW) -> nước(IW) 
+
+=====================
+
+Sức_mạnh dân_tộc theo Hồ_Chí_Minh , là sức_mạnh của truyền_thống dân_tộc , hun_đúc từ hàng nghìn năm trong công_cuộc dựng nước và giữ nước , thể_hiện ở lòng yêu nước , tinh_thần lao_động , ý_chí chiến_đấu ngoan_cường , sự thông_minh , sáng_tạo , ý_thức độc_lập , tự_chủ , tự_lực , tự_cường , đoàn_kết .
+Sức_mạnh dân_tộc theo Hồ_Chí_Minh , là sức_mạnh của truyền_thống dân_tộc , hun_đúc từ hàng nghìn năm trong công_cuộc dựng nước và giữ nước , thể_hiện ở lòng yêu_nước , tinh_thần lao_động , ý_chí chiến_đấu ngoan_cường , sự thông_minh , sáng_tạo , ý_thức độc_lập , tự_chủ , tự_lực , tự_cường , đoàn_kết .
+ 
+nước(BW) -> nước(IW) 
+
+=====================
+
+Sức_mạnh dân_tộc được nhân lên gấp_bội lần dưới sự lãnh_đạo của Đảng , được thắp sáng bởi tư_tưởng Hồ_Chí_Minh nên đưa lại những thắng_lợi to_lớn trong lao_động và chiến_đấu .
+Sức_mạnh dân_tộc được nhân lên gấp bội lần dưới sự lãnh_đạo của Đảng , được thắp_sáng bởi tư_tưởng Hồ_Chí_Minh nên đưa lại những thắng_lợi to_lớn trong lao_động và chiến_đấu .
+ 
+sáng(BW) -> sáng(IW) 
+
+=====================
+
+Điểm nổi_bật của sức_mạnh này là làm cho nước ta có vinh_dự lớn của “ một nước nhỏ mà đã anh_dũng đánh thắng hai đế_quốc to - là Pháp và Mĩ - và đã góp_phần xứng_đáng vào phong_trào giải_phóng dân_tộc ” .
+Điểm nổi_bật của sức_mạnh này là làm cho nước ta có vinh_dự lớn của “ một nước nhỏ mà đã anh_dũng đánh_thắng hai đế_quốc to - là Pháp và Mĩ - và đã góp_phần xứng_đáng vào phong_trào giải_phóng dân_tộc ” .
+ 
+thắng(BW) -> thắng(IW) 
+
+=====================
+
+Sức_mạnh của thời_đại , theo Hồ_Chí_Minh , bắt_đầu từ sau Cách_mạng_tháng_Mười_Nga_1917 , được thể_hiện chủ_yếu ở các lực_lượng tiến_bộ trên thế_giới , đặc_biệt của giai_cấp vô_sản và nhân_dân các dân_tộc bị áp_bức , đã được giải_phóng khỏi ách thực_dân , đang phát_triển trong công_cuộc xây_dựng xã_hội giàu_mạnh , văn_minh , tiến_bộ .
+Sức_mạnh của thời_đại , theo Hồ_Chí_Minh , bắt_đầu_từ sau Cách_mạng_tháng_Mười_Nga_1917 , được thể_hiện chủ_yếu ở các lực_lượng tiến_bộ trên thế_giới , đặc_biệt của giai_cấp vô_sản và nhân_dân các dân_tộc bị áp_bức , đã được giải_phóng khỏi ách thực_dân , đang phát_triển trong công_cuộc xây_dựng xã_hội giàu_mạnh , văn_minh , tiến_bộ .
+ 
+từ(BW) -> từ(IW) 
+
+=====================
+
+Hơn_nữa , như đã nêu trên , Hồ_Chí_Minh là một gương sáng cho chúng_ta noi theo về việc tiếp_thụ văn_hoá , giáo_dục nước_ngoài để làm phong_phú kiến_thức của bản_thân , xây_dựng nền văn_hoá , giáo_dục cách_mạng theo con đường xã_hội_chủ_nghĩa .
+Hơn_nữa , như đã nêu trên , Hồ_Chí_Minh là một gương_sáng cho chúng_ta noi theo về việc tiếp_thụ văn_hoá , giáo_dục nước_ngoài để làm phong_phú kiến_thức của bản_thân , xây_dựng nền văn_hoá , giáo_dục cách_mạng theo con đường xã_hội_chủ_nghĩa .
+ 
+sáng(BW) -> sáng(IW) 
+
+=====================
+
+Suy_nghĩ này không_thể không ảnh_hưởng đến tư_tưởng Nguyễn_Tất_Thành khi Người quyết_định rời Tổ_quốc sang Pháp , sang các nước phương Tây : “ ... nhân_dân Việt_Nam trong đó có ông_cụ thân_sinh ra tôi , lúc này thường tự hỏi nhau ai là người sẽ giúp mình thoát khỏi ách thống_trị của Pháp .
+Suy_nghĩ này không_thể không ảnh_hưởng đến tư_tưởng Nguyễn_Tất_Thành khi Người quyết_định rời Tổ_quốc sang Pháp , sang các nước phương_Tây : “ ... nhân_dân Việt_Nam trong đó có ông_cụ thân_sinh ra tôi , lúc này thường tự_hỏi nhau ai là người sẽ giúp mình thoát khỏi ách thống_trị của Pháp .
+ 
+Tây(BW) -> Tây(IW) 
+hỏi(BW) -> hỏi(IW) 
+
+=====================
+
+Với ý_thức tìm_hiểu nước Pháp để tìm đường cứu nước , ngay sau khi đặt_chân lên nước Pháp , Nguyễn_Tất_Thành , ngày 15 / 9 / 1911 , đã gửi cho Tổng_thống và Bộ_trưởng Bộ_Thuộc_địa Pháp đơn xin học Trường_thuộc_địa .
+Với ý_thức tìm_hiểu nước Pháp để tìm đường cứu nước , ngay sau khi đặt_chân lên nước Pháp , Nguyễn_Tất_Thành , ngày 15 / 9 / 1911 , đã gửi cho Tổng_thống và Bộ_trưởng Bộ_Thuộc_địa Pháp đơn_xin học Trường thuộc_địa .
+ 
+xin(BW) -> xin(IW) 
+
+=====================
+
+Xung_quanh vấn_đề Nguyễn_Tất_Thành gửi đơn xin học Trường_thuộc_địa ở Pháp có nhiều ý_kiến khác nhau , song những ý_kiến cố_tình xuyên_tạc hay chưa nhận_thức rõ đều không_thể làm lu_mờ động_cơ chân_chính của Nguyễn_Tất_Thành ra_đi tìm đường cứu nước .
+Xung_quanh vấn_đề Nguyễn_Tất_Thành gửi đơn_xin học Trường thuộc_địa ở Pháp có nhiều ý_kiến khác nhau , song những ý_kiến cố_tình xuyên_tạc hay chưa nhận_thức rõ đều không_thể làm lu_mờ động_cơ chân_chính của Nguyễn_Tất_Thành ra đi tìm đường cứu nước .
+ 
+xin(BW) -> xin(IW) 
+
+=====================
+
+Không được nhận vào Trường_thuộc_địa thì Nguyễn_Tất_Thành tự học trong đời_sống để tìm_hiểu nước Pháp , nhân_dân Pháp rồi trở_về giúp đồng_bào .
+Không được nhận vào Trường thuộc_địa thì Nguyễn_Tất_Thành tự_học trong đời_sống để tìm_hiểu nước Pháp , nhân_dân Pháp rồi trở_về giúp đồng_bào .
+ 
+học(BW) -> học(IW) 
+
+=====================
+
+Với tinh_thần , ý_chí tự học , từ vốn kiến_thức ban_đầu khi ra_đi tìm đường cứu nước - vốn Hán_học khá tinh_thông và trình_độ Tây_học ở bậc tiểu_học - Nguyễn_Tất_Thành dần_dần nắm vững những hiểu_biết về văn_hoá Đông , Tây làm cơ_sở cho việc tiếp_tục chủ_nghĩa_Mác-Lênin .
+Với tinh_thần , ý_chí tự_học , từ vốn kiến_thức ban_đầu khi ra_đi tìm đường cứu nước - vốn Hán_học khá tinh_thông và trình_độ Tây_học ở bậc tiểu_học - Nguyễn_Tất_Thành dần_dần nắm vững những hiểu_biết về văn_hoá Đông , Tây làm cơ_sở cho việc tiếp_tục chủ_nghĩa_Mác-Lênin .
+ 
+học(BW) -> học(IW) 
+
+=====================
+
+Đây là cơ_sở để Đảng ta , Nhà_nước Việt_Nam hoạch_định đường_lối , chính_sách , phương_hướng chỉ_đạo mọi hoạt_động trong những lĩnh_vực khác .
+Đây là cơ_sở để Đảng_ta , Nhà_nước Việt_Nam hoạch_định đường_lối , chính_sách , phương_hướng chỉ_đạo mọi hoạt_động trong những lĩnh_vực khác .
+ 
+ta(BW) -> ta(IW) 
+
+=====================
+
+Vì_vậy , khi hội_nhập quốc_tế phải nhận_thức đúng lực_lượng nào là cơ_bản , lực_lượng nào là hợp_tác có điều_kiện .
+Vì_vậy , khi hội_nhập quốc_tế phải nhận_thức đúng lực_lượng nào_là cơ_bản , lực_lượng nào_là hợp_tác có điều_kiện .
+ 
+là(BW) -> là(IW) 
+là(BW) -> là(IW) 
+
+=====================
+
+Bởi_vì , trong thời_đại chúng_ta khi mối quan_hệ quốc_tế được mở_rộng trên toàn thế_giới , cách_mạng_khoa_học_-_công_nghệ phát_triển như vũ_bão , tác_động trên mọi lĩnh_vực của đời_sống xã_hội thì việc giáo_dục con_người , với mục_tiêu cung_cấp nhân_lực cho lao_động sản_xuất , càng trở_nên cấp_thiết và cần_thiết .
+Bởi_vì , trong thời_đại_chúng_ta khi mối quan_hệ quốc_tế được mở_rộng trên toàn thế_giới , cách_mạng_khoa_học - công_nghệ phát_triển như vũ_bão , tác_động trên mọi lĩnh_vực của đời_sống xã_hội thì việc giáo_dục con_người , với mục_tiêu cung_cấp nhân_lực cho lao_động_sản_xuất , càng trở_nên cấp_thiết và cần_thiết .
+ 
+chúng(BW) -> chúng(IW) 
+sản(BW) -> sản(IW) 
+
+=====================
+
+Điều này có nghĩa là quốc_gia cung_cấp dịch_vụ thành_lập các cơ_sở cung_cấp dịch_vụ tại nước của khách_hàng , thông_qua các chi_nhánh , văn_phòng đại_diện , công_ti_con ...
+Điều này có nghĩa_là quốc_gia cung_cấp dịch_vụ thành_lập các cơ_sở cung_cấp dịch_vụ tại nước của khách_hàng , thông_qua các chi_nhánh , văn_phòng đại_diện , công_ti con ...
+ 
+là(BW) -> là(IW) 
+
+=====================
+
+Về giáo_dục , hình_thức này được thực_hiện chủ_yếu thông_qua việc cử giáo_sư , chuyên_gia đến quốc_gia thành_viên khác giảng_dạy , đào_tạo , tổ_chức việc nghiên_cứu giữa các trường , viện , học_viên , các cơ_sở giáo_dục và đào_tạo .
+Về giáo_dục , hình_thức này được thực_hiện chủ_yếu thông_qua việc cử giáo_sư , chuyên_gia đến quốc_gia thành_viên khác giảng_dạy , đào_tạo , tổ_chức_việc nghiên_cứu giữa các trường , viện , học_viên , các cơ_sở giáo_dục và đào_tạo .
+ 
+việc(BW) -> việc(IW) 
+
+=====================
+
+Xét cho cùng , đây là âm_mưu , thủ_đoạn của các nước đế_quốc muốn xây_dựng một thế_giới của “ chủ_nghĩa_tư_bản vĩnh_hằng ” , chống lại sự phát_triển của nhân_loại theo con đường xã_hội_chủ_nghĩa .
+Xét cho_cùng , đây là âm_mưu , thủ_đoạn của các nước đế_quốc muốn xây_dựng một thế_giới của “ chủ_nghĩa tư_bản vĩnh_hằng ” , chống lại sự phát_triển của nhân_loại theo con đường xã_hội_chủ_nghĩa .
+ 
+cùng(BW) -> cùng(IW) 
+
+=====================
+
+Trước_hết , phải tự đánh_giá đúng mình , trong mối quan_hệ với thế_giới và không nhìn_nhận xu_thế thời_đại trong trạng_thái “ tĩnh ” , mà trong sự vận_động không ngừng của nó , sự thay_đổi trong tương_quan_lực_lượng , trong tập_hợp lực_lượng giữa các tác_nhân tạo nên xu_thế .
+Trước_hết , phải tự đánh_giá đúng mình , trong mối quan_hệ với thế_giới và không nhìn_nhận xu_thế thời_đại trong trạng_thái “ tĩnh ” , mà trong sự vận_động không ngừng của nó , sự thay_đổi trong tương_quan lực_lượng , trong tập_hợp lực_lượng giữa các tác_nhân_tạo nên xu_thế .
+ 
+tạo(BW) -> tạo(IW) 
+
+=====================
+
+Việc bắt_chước , học_tập một_cách giáo_điều kinh_nghiệm nước_ngoài là một nguyên_nhân đưa tới những thất_bại - điều mà chúng_ta đã có kinh_nghiệm xương_máu .
+Việc bắt_chước , học_tập một_cách giáo_điều_kinh_nghiệm nước_ngoài là một nguyên_nhân đưa tới những thất_bại - điều mà chúng_ta đã có kinh_nghiệm xương_máu .
+ 
+kinh(BW) -> kinh(IW) 
+
+=====================
+
+Sau khi tiến_hành công_cuộc đổi_mới đất_nước đến nay ( 1986 trở đi ) , giáo_dục cũng đổi_mới và có những thành_tựu nhất_định .
+Sau khi tiến_hành công_cuộc đổi_mới đất_nước đến nay ( 1986 trở_đi ) , giáo_dục cũng đổi_mới và có những thành_tựu nhất_định .
+ 
+đi(BW) -> đi(IW) 
+
+=====================
+
+Một nền giáo_dục như vậy , được giữ vững và phát_triển qua những khó_khăn , gian_khổ của cách_mạng , không có sai_lầm về việc chệch mục_tiêu , phương_hướng đào_tạo theo quan_điểm , đường_lối của Đảng sao có_thể gọi_là “ khủng_hoảng ” .
+Một nền giáo_dục như_vậy , được giữ vững và phát_triển qua những khó_khăn , gian_khổ của cách_mạng , không có sai_lầm về việc chệch mục_tiêu , phương_hướng đào_tạo theo quan_điểm , đường_lối của Đảng_sao có_thể gọi_là “ khủng_hoảng ” .
+ 
+vậy(BW) -> vậy(IW) 
+sao(BW) -> sao(IW) 
+
+=====================
+
+Một điều đáng lo_ngại nhất là việc thực_hiện và giữ vững mục_tiêu giáo_dục trong việc “ liên_doanh , liên_kết ” , việc giáo_dục tư_tưởng , lí_tưởng cho các du_học_sinh Việt_Nam và học_sinh , sinh_viên Việt_Nam ở các trường quốc_tế trong nước ta .
+Một điều đáng lo_ngại nhất_là việc thực_hiện và giữ vững mục_tiêu giáo_dục trong việc “ liên_doanh , liên_kết ” , việc giáo_dục tư_tưởng , lí_tưởng cho các du_học_sinh Việt_Nam và học_sinh , sinh_viên Việt_Nam ở các trường quốc_tế trong nước ta .
+ 
+là(BW) -> là(IW) 
 
 =====================
 

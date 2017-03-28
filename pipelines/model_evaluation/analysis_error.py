@@ -43,6 +43,7 @@ def compare_sentence_1(sentence_1, sentence_2):
 
 
 def error_analysis():
+    f = open(join(dirname(dirname(__file__)), "reports", model_name, "total_fail.txt"), "w")
     f1 = open(join(dirname(dirname(__file__)), "reports", model_name, "fail_BW.txt"), "w")
     f2 = open(join(dirname(dirname(__file__)), "reports", model_name, "fail_IW.txt"), "w")
     f3 = open(join(dirname(dirname(__file__)), "reports", model_name, "fail_O.txt"), "w")
@@ -50,7 +51,13 @@ def error_analysis():
     for e, a in zip(expected_corpus.documents, actual_corpus.documents):
         for i, j in zip(e.sentences, a.sentences[:-1]):
             if i != j:
+                f.write(i.encode('utf-8') + "\n" + j.encode('utf-8') + "\n \n")
                 total_fail = compare_sentence_1(i, j)
+                # f.write(i.encode('utf-8') + "\n" + j.encode('utf-8') + "\n \n")
+                for fail in total_fail:
+                    f.write(fail[0].encode('utf-8') + ' (' + fail[1].encode('utf-8') + ') -> ' + fail[2].encode(
+                        'utf-8') + ' (' + fail[3].encode('utf-8') + ')\n')
+                f.write("\n============================== \n\n")
                 BW = []
                 IW = []
                 O = []

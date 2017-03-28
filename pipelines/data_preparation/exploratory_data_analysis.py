@@ -13,16 +13,19 @@ def count_token(documents):
     return count
 
 
-f = open(join(dirname(__file__), "reports", "exploratory_data_analysis.txt"), "w")
+f = open(join(dirname(dirname(__file__)), "reports", "exploratory_data_analysis.txt"), "w")
 f.write("[Statistics] Train Data Set\n")
-train_folder = join(dirname(dirname(__file__)), "data", "corpus_2", "train", "input")
+train_folder = join(dirname(dirname(dirname(__file__))), "data", "corpus_2", "train", "input")
 train_corpus = PlainTextCorpus()
 train_corpus.load(train_folder)
 # (new_word, word_in_dictionary) = compare_dictionary(train_folder)
 f.write("Total documents: %d\n" % len(train_corpus.documents))
 s = pd.Series([len(d.sentences) for d in train_corpus.documents])
+sentences = [sentence for document in train_corpus.documents for sentence in document.sentences]
 
+print("total sentence train : %s" % len(sentences))
 print(pd.Series.describe(s))
+
 f.write("Min token in sentence %d\n" % s.describe()['min'])
 f.write("Max token in sentence %d\n" % s.describe()['max'])
 f.write("Total sentences: %d\n" % sum(s))
@@ -34,12 +37,16 @@ f.write("Total token: %d\n" % count_token(train_corpus.documents))
 f.write("\n")
 
 f.write("[Statistics] Test Data Set\n")
-train_folder = join(dirname(dirname(__file__)), "data", "corpus_2", "test", "output")
+train_folder = join(dirname(dirname(dirname(__file__))), "data", "corpus_2", "test", "output")
 test_corpus = PlainTextCorpus()
 test_corpus.load(train_folder)
 # (new_word, word_in_dictionary) = compare_dictionary(train_folder)
 
 s = pd.Series([len(d.sentences) for d in test_corpus.documents])
+sentences = [sentence for document in test_corpus.documents for sentence in document.sentences]
+print ("total sentence test: %d" % len(sentences))
+print (pd.Series.describe(s))
+
 f.write("Total documents: %d\n" % len(test_corpus.documents))
 f.write("Min token in sentence %d\n" % s.describe()['min'])
 f.write("Max token in sentence %d\n" % s.describe()['max'])

@@ -1,8 +1,16 @@
+from pip.cmdoptions import requirements
+from setuptools import setup
+
 with open('README.rst') as readme_file:
     readme = readme_file.read()
 
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
+
+
+def test_requirements(args):
+    pass
+
 
 setup(
     name='underthesea.word_sent',

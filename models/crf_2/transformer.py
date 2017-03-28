@@ -11,7 +11,7 @@ def sent2features(sent):
 
 class Transformer:
     def __init__(self):
-        pass
+        self.punctuation = open("punctuation.txt", "r").read().splitlines()
 
     @staticmethod
     def transform(sentence):
@@ -22,38 +22,29 @@ class Transformer:
     def extract_features(sentence):
         return sent2features(sentence)
 
-    def format_word(self, sentence):
-        path = join(dirname(__file__), "punctuation.txt")
-        punctuations = open(path, "r").read().split("\n")
-        for punctuation in punctuations:
-            punctuation = unicode(punctuations)
-        words = []
-        for word in sentence.split(" "):
-            if "_" in word:
-                tokens = []
-                word = word.replace("_", " ")
-                for token in word.split(" "):
-                    if token != "":
-                        tokens.append(token)
+    def compound_words(self, token):
+        token = token.split('_')
+        first_token = [(token[0], "BW")]
+        last_token = [(i, "IW") for i in token[1:]]
+        return first_token + last_token
 
-                for i in range(tokens.__len__()):
-                    if i != 0:
-                        tokens[i] += "\tI_W"
-                    else:
-                        tokens[i] += "\tB_W"
-                    words.append(tokens[i])
-            elif word in punctuations:
-                words.append(word + "\tO")
-            else:
-                words.append(word + "\tB_W")
-        return words
+    def single_word(self, token):
+        if token in self.punctuation:
+            return [(token, 'O')]
+        else:
+            return [(token, 'BW')]
 
-    def list_to_tuple(self, sentences):
-        word_tuple = []
-        for i in sentences:
-            arr = i.split('\t')
-            word_tuple.append((arr[0], arr[1]))
-        return word_tuple
+    def tagged_token(self, token):
+        if '_' in token:
+            return self.compound_words(token)
+        else:
+            return self.single_word(token)
+
+    def to_column(self, sentence):
+        tokens = [token for token in sentence.split()]
+        tokens_tagged = [self.tagged_token(token) for token in tokens]
+        tokens_tagged = [token_tagged for sub_token_tagged in tokens_tagged for token_tagged in sub_token_tagged]
+        return tokens_tagged
 
     def load_train_sents(self):
         corpus = PlainTextCorpus()

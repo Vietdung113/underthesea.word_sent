@@ -1,14 +1,14 @@
 [Statistics] Train Data Set
-Total documents: 44
+Total documents: 45
 Min token in sentence 24
 Max token in sentence 703
-Total sentences: 6826
-Total token: 175654
+Total sentences: 6563
+Total token: 167901
 
 [Statistics] Test Data Set
 Total documents: 4
-Min token in sentence 75
-Max token in sentence 131
-Total sentences: 436
-Total token: 10612
+Min token in sentence 114
+Max token in sentence 229
+Total sentences: 776
+Total token: 20302
 

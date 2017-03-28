@@ -12,8 +12,8 @@ source_output = join(path, "raw", "train", "output")
 ids_seg = listdir(source_output)
 shuffle(ids_seg)
 # shuffle(ids_raw)
-data_set = ids_seg[0:43]
-input_test = ids_seg[44:48]
+data_set = ids_seg[0:45]
+input_test = ids_seg[45:49]
 output_test = []
 for file_name in data_set:
     shutil.copyfile(join(source_output, file_name), join(train_input, file_name))

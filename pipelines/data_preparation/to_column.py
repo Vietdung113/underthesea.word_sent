@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 punctuation = open("punctuation.txt", "r").read().splitlines()
-punctuation = [unicode(charactor) for charactor in punctuation]
+# punctuation = [unicode(charactor) for charactor in punctuation]
 
 
 def compound_words(token):

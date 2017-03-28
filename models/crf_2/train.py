@@ -11,7 +11,7 @@ def train():
     train_sents = transformer.load_train_sents()
     matrix = []
     for sentence in train_sents:
-        matrix.append(transformer.list_to_tuple(transformer.format_word(sentence)))
+        matrix.append(transformer.to_column(sentence))
     train_sents = matrix
     X_train = [Transformer.extract_features(s) for s in train_sents]
     y_train = [sent2labels(s) for s in train_sents]
