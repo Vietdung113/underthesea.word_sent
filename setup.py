@@ -1,4 +1,6 @@
-from pip.cmdoptions import requirements
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from setuptools import setup
 
 with open('README.rst') as readme_file:
@@ -7,15 +9,20 @@ with open('README.rst') as readme_file:
 with open('HISTORY.rst') as history_file:
     history = history_file.read()
 
+requirements = [
+    'Click>=6.0',
+    # TODO: put package requirements here
+]
 
-def test_requirements(args):
-    pass
-
+test_requirements = [
+    # TODO: put package test requirements here
+    'nose==1.3.7'
+]
 
 setup(
-    name='underthesea.word_sent',
-    version='1.0.0',
-    description="Word Segmentation Experiment",
+    name='underthesea',
+    version='1.0.10',
+    description="Vietnamese NLP Toolkit",
     long_description=readme + '\n\n' + history,
     author="Vu Anh",
     author_email='brother.rain.1024@gmail.com',
